@@ -1,16 +1,6 @@
 branches:
   only:
-  - master
-
-sudo: required
-
-services:
-  - docker
+  - source
 
 script:
-  - rm -rf public || exit 0
-  - git clone -b gh-pages https://$GITHUB_TOKEN@github.com/goconca/homepage.git public
-  - make generate-using-docker
-  - git config --global user.name "Deployment Bot (from Travis CI)"
-  - git config --global user.email "deploy@travis-ci.org"
-  - make deploy
+  - echo Skip
