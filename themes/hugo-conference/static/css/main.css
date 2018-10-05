@@ -61,6 +61,7 @@ textarea {
 }
 body {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 a:focus {
   outline: thin dotted;
@@ -696,6 +697,7 @@ h4,
 h5,
 h6 {
   color: #2b2b2b;
+  font-family: 'Work Sans', sans-serif;
 }
 /* =============================================================================
    NAVIGATION
@@ -715,18 +717,46 @@ nav {
 /* =============================================================================
    HEADER
    ========================================================================== */
+
+@-webkit-keyframes header-bg-animation {
+  0%, 100% { background-position: center 20%; }
+  50%      { background-position: center 60%; }
+}
+@-moz-keyframes header-bg-animation {
+  0%, 100% { background-position: center 20%; }
+  50%      { background-position: center 60%; }
+}
+@-o-keyframes header-bg-animation {
+  0%, 100% { background-position: center 20%; }
+  50%      { background-position: center 60%; }
+}
+@keyframes header-bg-animation {
+  0%, 100% { background-position: center 20%; }
+  50%      { background-position: center 60%; }
+}
+
 .header {
   background-image: url('../img/cover.jpg');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
-  background-position: center center;
+  -webkit-animation: header-bg-animation 55s infinite;
+  -moz-animation:    header-bg-animation 55s infinite;
+  -o-animation:      header-bg-animation 55s infinite;
+  animation:         header-bg-animation 55s infinite;
   background-size: 100% auto;
+}
+.logo-link {
+  text-shadow: 5px 2px 1px rgba(0, 78, 73, 0.8);
+}
+.tagline,
+.call-action-area .price {
+  text-shadow: 1px 2px 1px rgba(0, 78, 73, 0.8);
 }
 .logo-link,
 .tagline,
 .call-action-area .price {
   color: #fff;
-  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
+  font-family: 'Work Sans', sans-serif;
 }
 .tagline {
   font-weight: normal;
@@ -736,14 +766,8 @@ nav {
 }
 .call-action-area .call-action-link,
 .btn {
-  background-color: #fddd52;
-  background-image: -moz-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  background-image: -webkit-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
-  background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  background-color: #fbea12;
   color: #2b2b2b;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
   border-radius: 40px;
 }
 .github-link {
@@ -759,12 +783,11 @@ nav {
    CONTENT
    ========================================================================== */
 .content a {
-  color: #f0a303;
+  color: #00a77e;
 }
 .content a:hover,
 .content a:focus {
-  color: #fddd52;
-  text-decoration: underline;
+  color: #00c58e;
 }
 /* =============================================================================
    ABOUT

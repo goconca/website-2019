@@ -43,9 +43,9 @@ params:
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
-  CallToAction:
-    text: "Register now!"
-    link: "http://register.example.com"
+  # CallToAction:
+  #   text: "Register now!"
+  #   link: "https://gocon.ca"
 
   # List of Sponsors
   Sponsors:
