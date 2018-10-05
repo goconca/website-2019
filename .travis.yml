@@ -1,6 +1,6 @@
 branches:
   only:
-  - source
+  - master
 
 sudo: required
 
