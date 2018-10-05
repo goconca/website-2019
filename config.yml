@@ -9,9 +9,9 @@ params:
   # Conference info
   Name: "GOCON CANADA"
   Description: "Canadian Go Conference"
-  Date: "May ??"
-  Price: "UNKNOWN" # If your event is free, just comment this line
-  Venue: "VENUE"
+  Date: "May/April 2019"
+  # Price: "UNKNOWN" # If your event is free, just comment this line
+  Venue: "TBA"
   Address: "1 York street"
   City:  "Toronto"
   State: "Ontario"
@@ -22,11 +22,12 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    - location
-    - speakers
-    - schedule
-    - sponsors
-    - partners
+    - organizers
+    # - location
+    # - speakers
+    # - schedule
+    # - sponsors
+    # - partners
     # - contact
 
   # Titles which you can translate to other languages
@@ -37,6 +38,7 @@ params:
     schedule: "Schedule"
     sponsors: "Sponsors"
     partners: "Partners"
+    organizers: "Organizers"
     contact: "Contact"
 
   # The Call To Action button at the header,
