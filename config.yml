@@ -1,4 +1,4 @@
-baseurl: "https://gocon.ca/"
+baseurl: "/"
 title: "GOCON CANADA"
 canonifyurls: true
 theme: "hugo-conference"
