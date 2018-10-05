@@ -28,7 +28,7 @@ params:
     # - schedule
     # - sponsors
     # - partners
-    # - contact
+    - contact
 
   # Titles which you can translate to other languages
   Titles:

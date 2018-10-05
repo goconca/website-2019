@@ -1,18 +1,18 @@
 <h2 class="section-title">{{ .titles.contact }}</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ducimus neque amet corrupti ex temporibus similique.</p>
-<form method="post" action="contact.php" id="form" class="form">
+<p>If you have any questions or feedback please feel free to contact us using this feedback form</p>
+<form enctype="multipart/form-data" method="post" action="https://kjbad3ok09.execute-api.us-east-1.amazonaws.com/default/GoConContactForm/" id="form" class="form">
   <div class="control-group control-group-name">
     <label for="name">Name</label>
     <input type="text" name="name" id="name" placeholder="Your name">
   </div>
   <div class="control-group control-group-email">
-    <label for="email">E-mail</label>
+    <label for="email">E-mail (optional)</label>
   <input type="email" name="email" id="email" placeholder="Your e-mail">
   </div>
   <div class="control-group">
     <label for="message">Message</label>
-  <textarea name="" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
+  <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
   </div>
   <input class="btn btn-send" type="submit" value="Send">
 </form>
