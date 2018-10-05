@@ -30,6 +30,20 @@ params:
     # - partners
     - contact
 
+  Organizers:
+    - name: Mike Fridman
+      homepage: https://frid.io
+      twitter:
+    - name: Zach Goldstein
+      homepage: https://zachgoldstein.github.io/
+      twitter:
+    - name: Lubov Soltan
+      homepage: https://www.lubovsoltan.com/
+      twitter:
+    - name: Max Gonzih
+      homepage: https://gonzih.me/
+      twitter:
+
   # Titles which you can translate to other languages
   Titles:
     about: "About"
