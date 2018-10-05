@@ -2,7 +2,7 @@ push:
 	git push
 
 generate:
-	ls -lha /var/blog
+	ls -lha /var/website
 	du -hs *
 	hugo
 	du -hs *
@@ -24,14 +24,14 @@ deploy: public
 USER=$(shell whoami)
 UID=$(shell id -u $(USER))
 docker-image:
-	docker build --build-arg GNZHUID=$(UID) -t blog-builder .
+	docker build --build-arg GNZHUID=$(UID) -t website-builder .
 
 docker-rm:
-	docker kill blog-builder || echo "Not found"
-	docker rm blog-builder || echo "Not found"
+	docker kill website-builder || echo "Not found"
+	docker rm website-builder || echo "Not found"
 
 generate-using-docker: docker-image docker-rm public
-	docker run --rm -t -v $(shell pwd):/var/blog --name blog-builder blog-builder make generate
+	docker run --rm -t -v $(shell pwd):/var/website --name website-builder website-builder make generate
 
 deploy-using-docker: public
 	make generate-using-docker
@@ -39,7 +39,7 @@ deploy-using-docker: public
 	make push
 
 preview-using-docker: docker-image docker-rm public
-	docker run --rm -t -v $(shell pwd):/var/blog -p 1313:1313 --name blog-builder blog-builder make preview
+	docker run --rm -t -v $(shell pwd):/var/website -p 1313:1313 --name website-builder website-builder make preview
 
 debug-using-docker: docker-image docker-rm public
-	docker run --rm -ti -v $(shell pwd):/var/blog -p 1313:1313 --name blog-builder blog-builder bash
+	docker run --rm -ti -v $(shell pwd):/var/website -p 1313:1313 --name website-builder website-builder bash
