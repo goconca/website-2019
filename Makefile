@@ -12,7 +12,7 @@ preview:
 
 TS := $(date)
 public:
-	git clone -b master git@github.com:Gonzih/gonzih.github.com.git public
+	git clone -b master git@github.com:goconca/goconca.github.io.git public
 
 deploy: public
 	cd public \
