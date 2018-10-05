@@ -717,34 +717,46 @@ nav {
 /* =============================================================================
    HEADER
    ========================================================================== */
-
-@-webkit-keyframes header-bg-animation {
-  0%, 100% { background-position: center 20%; }
-  50%      { background-position: center 60%; }
-}
-@-moz-keyframes header-bg-animation {
-  0%, 100% { background-position: center 20%; }
-  50%      { background-position: center 60%; }
-}
-@-o-keyframes header-bg-animation {
-  0%, 100% { background-position: center 20%; }
-  50%      { background-position: center 60%; }
-}
-@keyframes header-bg-animation {
-  0%, 100% { background-position: center 20%; }
-  50%      { background-position: center 60%; }
-}
-
 .header {
   background-image: url('../img/cover.jpg');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
-  -webkit-animation: header-bg-animation 55s infinite;
-  -moz-animation:    header-bg-animation 55s infinite;
-  -o-animation:      header-bg-animation 55s infinite;
-  animation:         header-bg-animation 55s infinite;
-  background-size: 100% auto;
 }
+
+@media (min-width:641px)  {
+	@-webkit-keyframes header-bg-animation {
+		0%, 100% { background-position: center 20%; }
+		50%      { background-position: center 60%; }
+	}
+	@-moz-keyframes header-bg-animation {
+		0%, 100% { background-position: center 20%; }
+		50%      { background-position: center 60%; }
+	}
+	@-o-keyframes header-bg-animation {
+		0%, 100% { background-position: center 20%; }
+		50%      { background-position: center 60%; }
+	}
+	@keyframes header-bg-animation {
+		0%, 100% { background-position: center 20%; }
+		50%      { background-position: center 60%; }
+	}
+	
+	.header {
+		-webkit-animation: header-bg-animation 55s infinite;
+		-moz-animation:    header-bg-animation 55s infinite;
+		-o-animation:      header-bg-animation 55s infinite;
+		animation:         header-bg-animation 55s infinite;
+		background-size: 100% auto;
+	}
+}
+
+@media (max-width:641px)  {
+	.header {
+		background-size: 250% auto !important;
+		background-position: center 25%;
+	}
+}
+
 .logo-link {
   text-shadow: 5px 2px 1px rgba(0, 78, 73, 0.8);
 }
