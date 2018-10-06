@@ -17,7 +17,7 @@ public:
 deploy: public
 	cd public \
 	&& git add  . \
-	&& (git commit -a -m "Blog updated at $(shell date)"  || echo "Nothing to commit") \
+	&& (git commit -a -m "Website updated at $(shell date)"  || echo "Nothing to commit") \
 	&& git push \
 	&& cd ..
 
