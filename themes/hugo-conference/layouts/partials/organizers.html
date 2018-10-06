@@ -2,6 +2,9 @@
 
 <p>Brought to you with ❤ by:</p>
 
+<p class="wrapper">
 {{ range $organizer := .organizers }}
-  <p><a href="{{ .homepage }}" target="_blank">{{ .name }}</a></p>
+  <a href="{{ .homepage }}" target="_blank">{{ .name }}</a>
+  <br/>
 {{ end }}
+</p>
