@@ -724,17 +724,17 @@ nav {
 }
 
 @media (min-width:641px)  {
-	.header {
-		background-size: 100% auto;
-		background-position: center bottom;
-	}
+  .header {
+    background-size: 100% auto;
+    background-position: center bottom;
+  }
 }
 
 @media (max-width:641px)  {
-	.header {
-		background-size: 250% auto !important;
-		background-position: center 65%;
-	}
+  .header {
+    background-size: 250% auto !important;
+    background-position: center 65%;
+  }
 }
 
 .logo-link {
