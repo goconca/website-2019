@@ -22,6 +22,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    # - cfp
     - organizers
     # - location
     # - speakers
@@ -29,6 +30,10 @@ params:
     # - sponsors
     # - partners
     - contact
+
+  Cfp:
+    title: "Submit your talk proposal now!"
+    url: https://www.papercall.io/goconca
 
   Organizers:
     - name: Mike Fridman
@@ -46,6 +51,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
+    cfp: "Call For Papers"
     about: "About"
     location: "Location"
     speakers: "Speakers"
