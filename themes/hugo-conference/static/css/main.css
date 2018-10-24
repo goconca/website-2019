@@ -915,3 +915,7 @@ nav {
     display: none;
   }
 }
+
+.subscribe-form .control-group-email .btn {
+  float: left;
+}

@@ -22,6 +22,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - mailinglist
     # - cfp
     - organizers
     # - location
@@ -60,6 +61,7 @@ params:
     partners: "Partners"
     organizers: "Organizers"
     contact: "Contact"
+    mailinglist: "Subscribe for updates"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
