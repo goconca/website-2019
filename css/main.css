@@ -4,7 +4,7 @@
 * {
   margin: 0;
   padding: 0;
-  list-style: none;
+  /* list-style: none; */
   border: 0;
   text-decoration: none;
 }
@@ -57,7 +57,7 @@ button,
 input,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 body {
   margin: 0;
@@ -106,8 +106,8 @@ pre,
 code,
 kbd,
 samp {
-  font-family: monospace, serif;
-  _font-family: 'courier new', monospace;
+  font-family: 'Roboto', sans-serif;
+  _font-family: 'Roboto', sans-serif;
   font-size: 1em;
 }
 pre {
@@ -144,8 +144,8 @@ dd {
 }
 nav ul,
 nav ol {
-  list-style: none;
-  list-style-image: none;
+  /* list-style: none; */
+  /* list-style-image: none; */
   margin: 0;
   padding: 0;
 }
@@ -248,25 +248,25 @@ td {
   color: black;
   padding: 0.2em 0;
 }
-header:after,
-footer:after,
-section:after,
-hgroup:after,
-aside:after,
-figure:after,
-div:after,
-ol:after,
-li:after,
-form:after,
-ul:after,
-dl:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  overflow: hidden;
-}
+/* header:after, */
+/* footer:after, */
+/* section:after, */
+/* hgroup:after, */
+/* aside:after, */
+/* figure:after, */
+/* div:after, */
+/* ol:after, */
+/* li:after, */
+/* form:after, */
+/* ul:after, */
+/* dl:after { */
+/*   content: "."; */
+/*   display: block; */
+/*   clear: both; */
+/*   visibility: hidden; */
+/*   height: 0; */
+/*   overflow: hidden; */
+/* } */
 hr {
   display: none;
 }
@@ -303,6 +303,9 @@ h3 {
 }
 h4 {
   font-size: 3em;
+}
+h5 {
+  font-size: 2em;
 }
 p {
   font-size: 1.6em;
@@ -697,7 +700,7 @@ h4,
 h5,
 h6 {
   color: #2b2b2b;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 /* =============================================================================
    NAVIGATION
@@ -748,7 +751,7 @@ nav {
 .tagline,
 .call-action-area .price {
   color: #fff;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .tagline {
   font-weight: normal;
@@ -918,4 +921,15 @@ nav {
 
 .subscribe-form .control-group-email .btn {
   float: left;
+}
+
+ul.coc {
+  font-size: 1.6em;
+  line-height: 1.6em;
+  margin-bottom: 1.4em;
+  list-style-type: disc;
+  padding-left: 2em;
+}
+ul.coc ul {
+  padding-left: 1em;
 }
