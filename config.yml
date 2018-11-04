@@ -31,6 +31,7 @@ params:
     # - sponsors
     # - partners
     - contact
+    - coc
 
   Cfp:
     title: "Submit your talk proposal now!"
@@ -62,6 +63,7 @@ params:
     organizers: "Organizers"
     contact: "Contact"
     mailinglist: "Subscribe for updates"
+    coc: "Code of Conduct"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
