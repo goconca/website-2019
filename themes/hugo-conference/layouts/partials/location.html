@@ -1,9 +1,11 @@
 <h2 class="section-title">{{ .titles.location }}</h2>
 
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  <span itemprop="streetAddress">{{ .venue }}, </span>
   <span itemprop="streetAddress">{{ .address }}. </span>
   <span itemprop="addressLocality">{{ .city }}</span>,
-  <span itemprop="addressRegion"> {{ .state }}</span>
+  <span itemprop="addressRegion"> {{ .state }},</span>
+  <span itemprop="addressRegion"> {{ .postcode }}.</span>
 </p>
 
 <div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}"></div>

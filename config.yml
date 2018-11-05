@@ -9,12 +9,13 @@ params:
   # Conference info
   Name: "GOCON CANADA"
   Description: "Canadian Go Conference"
-  Date: "May/April 2019"
+  Date: "May 11, 2019 "
   # Price: "UNKNOWN" # If your event is free, just comment this line
-  Venue: "TBA"
-  Address: "1 York street"
+  Venue: "The Cathedral Church of St James"
+  Address: "65 Church Street"
   City:  "Toronto"
   State: "Ontario"
+  Postcode: "M5C 2E9"
   Images: ["/img/toronto.jpg"]
   GoogleMapsKey: "AIzaSyD75cSNgqEfqbKAq-2aeBJV0gjYBw4Ys88"
 
@@ -23,9 +24,9 @@ params:
   Sections:
     - about
     - mailinglist
+    - location
     # - cfp
     - organizers
-    # - location
     # - speakers
     # - schedule
     # - sponsors
