@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "GOCON CANADA"
   Description: "Canadian Go Conference"
-  Date: "May 11, 2019 "
+  Date: "May 11, 2019"
   # Price: "UNKNOWN" # If your event is free, just comment this line
   Venue: "The Cathedral Church of St James"
   Address: "65 Church Street"
