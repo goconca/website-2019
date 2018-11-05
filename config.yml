@@ -11,7 +11,7 @@ params:
   Description: "Canadian Go Conference"
   Date: "May 11, 2019"
   # Price: "UNKNOWN" # If your event is free, just comment this line
-  Venue: "The Cathedral Church of St James"
+  Venue: "St. James Cathedral Centre"
   Address: "65 Church Street"
   City:  "Toronto"
   State: "Ontario"
