@@ -23,9 +23,9 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - cfp
     - mailinglist
     - location
-    # - cfp
     - organizers
     # - speakers
     # - schedule
@@ -54,7 +54,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    cfp: "Call For Papers"
+    cfp: "Call for papers"
     about: "About"
     location: "Location"
     speakers: "Speakers"
@@ -64,7 +64,7 @@ params:
     organizers: "Organizers"
     contact: "Contact"
     mailinglist: "Subscribe for updates"
-    coc: "Code of Conduct"
+    coc: "Code of conduct"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
