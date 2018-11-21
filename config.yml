@@ -50,6 +50,9 @@ params:
     - name: Max Gonzih
       homepage: https://gonzih.me/
       twitter:
+    - name: Dylan Arbour
+      homepage: https://dylanarbour.com/
+      twitter:
 
   # Titles which you can translate to other languages
   Titles:
