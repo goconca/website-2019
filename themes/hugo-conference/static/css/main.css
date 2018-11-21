@@ -377,7 +377,7 @@ nav {
 .call-action-area .call-action-link:focus,
 .btn:hover,
 .btn:focus {
-  top: 0;
+  background: #f34d4d;
 }
 /* =============================================================================
    ABOUT
@@ -953,4 +953,8 @@ ul.coc {
 }
 ul.coc ul {
   padding-left: 1em;
+}
+.call-action-area .call-action-link:hover,
+.call-action-area .call-action-link:focus {
+  color: #4b4b4b;
 }
