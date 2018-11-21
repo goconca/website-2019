@@ -328,6 +328,7 @@ nav {
 }
 .nav-item {
   display: inline-block;
+  letter-spacing: 0px;
   margin-right: 15px;
 }
 .nav-link {
@@ -337,7 +338,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  padding: 100px 0 100px;
+  padding: 20px 0px 50px 0px;
   text-align: center;
 }
 .logo-name {
@@ -439,7 +440,7 @@ nav {
 }
 .schedule-tbl th {
   padding: 5px 30px;
-  color: #2b2b2b;
+  color: #4b4b4b;
   font-size: 2em;
   font-weight: bolder;
 }
@@ -699,30 +700,30 @@ h3,
 h4,
 h5,
 h6 {
-  color: #2b2b2b;
+  color: #4b4b4b;
   font-family: 'Roboto', sans-serif;
 }
 /* =============================================================================
    NAVIGATION
    ========================================================================== */
 nav {
-  background: #2b2b2b;
+  background: #fcde32;
 }
 .nav-link {
-  color: #e7e7e7;
+  color: #4b4b4b;
 }
 .nav-link:active,
 .nav-link:hover,
 .nav-link:focus,
 .nav-link.current {
-  color: #fff;
+  color: #f34d4d;
 }
 /* =============================================================================
    HEADER
    ========================================================================== */
 .header {
   background-image: url('../img/cover.jpg');
-  background-color: #2b2b2b;
+  background-color: #64d1ee;
   background-repeat: no-repeat;
 }
 
@@ -740,18 +741,38 @@ nav {
   }
 }
 
+.title-wrapper {
+  /* display: inline-block; */
+  margin-top: 80px;
+  margin-bottom: 38px;
+}
+.tagline,
+.nav-item,
 .logo-link {
-  text-shadow: 5px 2px 1px rgba(0, 78, 73, 0.8);
-}
-.tagline,
-.call-action-area .price {
-  text-shadow: 1px 2px 1px rgba(0, 78, 73, 0.8);
-}
-.logo-link,
-.tagline,
-.call-action-area .price {
-  color: #fff;
+  font-weight: bold;
+  font-style: italic;
+  font-stretch: normal;
   font-family: 'Roboto', sans-serif;
+}
+.tagline {
+  padding: 3px 18px;
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: 0px;
+}
+.logo-link {
+  font-weight: black;
+  padding: 0px 30px;
+  line-height: 1.18;
+  letter-spacing: 2.2px;
+}
+
+.tagline,
+.logo-link {
+  display: inline-block;
+
+  background: #fcde32;
+  color: #4b4b4b;
 }
 .tagline {
   font-weight: normal;
@@ -761,8 +782,8 @@ nav {
 }
 .call-action-area .call-action-link,
 .btn {
-  background-color: #fbea12;
-  color: #2b2b2b;
+  background-color: #fcde32;
+  color: #4b4b4b;
   border-radius: 40px;
 }
 .github-link {
@@ -818,7 +839,7 @@ nav {
 }
 .speech-time {
   color: #fff;
-  background: #2b2b2b;
+  background: #4b4b4b;
   border-radius: 8px;
 }
 /* =============================================================================
@@ -841,7 +862,7 @@ nav {
   background: #f6f6f6;
 }
 .schedule-tbl th {
-  color: #2b2b2b;
+  color: #4b4b4b;
 }
 .schedule-tbl .speaker-photo .photo {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3);
@@ -850,7 +871,7 @@ nav {
   color: #999;
 }
 .schedule-slot {
-  color: #2b2b2b;
+  color: #4b4b4b;
 }
 .schedule-tbl tbody tr:hover {
   background: #fffde1;
@@ -910,7 +931,7 @@ nav {
     font-weight: bolder;
   }
   .speech-time {
-    color: #2b2b2b;
+    color: #4b4b4b;
     background: transparent;
     font-weight: bolder;
   }
