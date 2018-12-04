@@ -499,6 +499,12 @@ nav {
   float: left;
   margin-right: 25px;
 }
+@media only screen and (max-width: 1024px) {
+.control-group-name,
+.control-group-email {
+  width: 100%;
+}
+}
 .control-group-email {
   margin-right: 0;
 }
@@ -519,7 +525,6 @@ nav {
   height: 300px;
 }
 .form .btn {
-  float: right;
 }
 /* =============================================================================
    Media Queries
@@ -938,10 +943,6 @@ nav {
   .github-link {
     display: none;
   }
-}
-
-.subscribe-form .control-group-email .btn {
-  float: left;
 }
 
 ul.coc {
