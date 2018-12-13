@@ -959,3 +959,14 @@ ul.coc ul {
 .call-action-area .call-action-link:focus {
   color: #4b4b4b;
 }
+
+/* small screen fixes */
+@media only screen and (max-width: 320px) {
+  .call-action-link.cfp {
+    font-size: 16px;
+  }
+
+  .header .wrapper .mascot {
+    width: 100%;
+  }
+}
