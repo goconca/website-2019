@@ -9,12 +9,13 @@ params:
   # Conference info
   Name: "GOCON CANADA"
   Description: "Canadian Go Conference"
-  Date: "May/April 2019"
+  Date: "May 31, 2019"
   # Price: "UNKNOWN" # If your event is free, just comment this line
-  Venue: "TBA"
-  Address: "1 York street"
+  Venue: "St. James Cathedral Centre"
+  Address: "65 Church Street"
   City:  "Toronto"
   State: "Ontario"
+  Postcode: "M5C 2E9"
   Images: ["/img/toronto.jpg"]
   GoogleMapsKey: "AIzaSyD75cSNgqEfqbKAq-2aeBJV0gjYBw4Ys88"
 
@@ -22,10 +23,10 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - cfp
     - mailinglist
-    # - cfp
+    - location
     - organizers
-    # - location
     # - speakers
     # - schedule
     # - sponsors
@@ -56,7 +57,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    cfp: "Call For Papers"
+    cfp: "Call for papers"
     about: "About"
     location: "Location"
     speakers: "Speakers"
@@ -66,7 +67,7 @@ params:
     organizers: "Organizers"
     contact: "Contact"
     mailinglist: "Subscribe for updates"
-    coc: "Code of Conduct"
+    coc: "Code of conduct"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
