@@ -961,7 +961,7 @@ ul.coc ul {
 }
 
 /* small screen fixes */
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 400px) {
   .call-action-link.cfp {
     font-size: 16px;
   }
