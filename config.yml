@@ -24,12 +24,13 @@ params:
   Sections:
     - about
     - cfp
+    - looking_for_sponsors
     - mailinglist
     - location
     - organizers
+    # - sponsors
     # - speakers
     # - schedule
-    # - sponsors
     # - partners
     - contact
     - coc
@@ -68,6 +69,7 @@ params:
     contact: "Contact"
     mailinglist: "Subscribe for updates"
     coc: "Code of conduct"
+    looking_for_sponsors: "We are looking for sponsors!"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
