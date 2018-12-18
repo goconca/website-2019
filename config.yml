@@ -67,7 +67,7 @@ params:
     partners: "Partners"
     organizers: "Organizers"
     contact: "Contact"
-    mailinglist: "Subscribe for updates"
+    mailinglist: "Subscribe"
     coc: "Code of conduct"
     looking_for_sponsors: "We are looking for sponsors!"
 
