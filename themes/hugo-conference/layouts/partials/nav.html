@@ -3,7 +3,7 @@
     {{ range $section := $.Site.Params.Sections }}
       <li class="nav-item">
         <a href="#{{ $section }}" title="{{ index $.Site.Params.Titles $section }}" class="nav-link">
-          {{ index $.Site.Params.Titles $section }}
+          {{ index $.Site.Params.Nav $section }}
         </a>
       </li>
     {{ end }}

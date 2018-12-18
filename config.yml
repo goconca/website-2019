@@ -67,9 +67,23 @@ params:
     partners: "Partners"
     organizers: "Organizers"
     contact: "Contact"
-    mailinglist: "Subscribe"
+    mailinglist: "Subscribe for updates"
     coc: "Code of conduct"
     looking_for_sponsors: "We are looking for sponsors!"
+
+  Nav:
+    cfp: "CFP"
+    about: "About"
+    location: "Location"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    organizers: "Organizers"
+    contact: "Contact"
+    mailinglist: "Subscribe"
+    coc: "CoC"
+    looking_for_sponsors: "Sponsoring"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
