@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container">
+    <div class="content">
+        {{ range first 10 .Data.Pages }}
+            {{ if eq .Type "blog"}}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ .Summary }}
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
+{{ end  }}

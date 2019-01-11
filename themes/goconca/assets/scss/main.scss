@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900i|Work+Sans');
+
+// customizing bulma
+$turquoise: #64d1ee;
+$yellow: #fcde32;
+$dark: #4b4b4b;
+$blue: #01add8;
+$cyan: #00a29c;
+$purple: #de7b96;
+$red: #ce3062;
+
+// Not sure how to adjust those
+// $orange: ;
+// $green: ;
+// $red: ;
+
+$family-sans-serif: 'Roboto', sans-serif;
+
+@import "bulma/bulma";
+
+body {
+  nav.navbar {
+    .gocon-nav, .navbar-brand, .navbar-menu {
+      background-color: $yellow;
+      color: $dark;
+      font-weight: $weight-bold;
+    }
+
+    .navbar-item {
+      &:hover {
+        background-color: lighten($yellow, 10%);
+      }
+    }
+  }
+
+  .hero.is-primary.is-gocon {
+    background-image: url('/img/cover.png');
+    background-image: url('/img/cover.png'), linear-gradient(to bottom, $cyan, $turquoise);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center bottom;
+
+    @media (min-width:641px)  {
+      background-size: 100% auto;
+      background-position: center bottom;
+    }
+
+    @media (max-width:641px)  {
+      background-size: 250% auto !important;
+      background-position: center 65%;
+    }
+
+    .title, .subtitle {
+      color: $yellow;
+      font-weight: $weight-bold;
+    }
+
+    .title {
+      font-size: 7em;
+      padding: 0px 30px;
+      line-height: 1.18;
+      letter-spacing: 2.2px;
+    }
+  }
+
+  .location-wrapper {
+    background: #e7e7e7;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 300px;
+  }
+}
