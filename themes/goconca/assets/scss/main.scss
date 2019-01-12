@@ -59,6 +59,9 @@ body {
 
     .title {
       font-size: 7em;
+      @media (max-width:641px)  {
+        font-size: 3.6em;
+      }
       padding: 0px 30px;
       line-height: 1.18;
       letter-spacing: 2.2px;
