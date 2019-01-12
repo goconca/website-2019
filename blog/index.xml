@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on GOCON CANADA</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on GOCON CANADA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources for new speakers</title>
+      <link>/blog/1-resources-for-the-new-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/1-resources-for-the-new-speakers/</guid>
+      <description>Main text
+Rest of the text</description>
+    </item>
+    
+  </channel>
+</rss>

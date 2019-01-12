@@ -9,5 +9,46 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Go has become a critical tool in the arsenal of software development teams across Canada.
+Rated the &amp;ldquo;Most promising programming language&amp;rdquo; of 2018 in a recent JetBrains survey, the language has grown by leaps and bounds in the last year. Communities from coast to coast have popped up to support the language, and it’s become clear that there’s a strong appetite for a conference that can bring everybody together.
+Gocon Canada seeks to do just that.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-of-conduct/</guid>
+      <description>All delegates, speakers, sponsors and volunteers at any this event are required to agree with the Go Community Code of Conduct.
+Summary: Our conference will include people from many different backgrounds. Organizers are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
+These are the values to which people attending this event should aspire:  Be friendly and welcoming Be patient  Remember that people have varying communication styles and that not everyone is using their native language.</description>
+    </item>
+    
+    <item>
+      <title>Resources for new speakers</title>
+      <link>/blog/1-resources-for-the-new-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/1-resources-for-the-new-speakers/</guid>
+      <description>Main text
+Rest of the text</description>
+    </item>
+    
+    <item>
+      <title>We are looking for sponsors!</title>
+      <link>/sponsorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsorship/</guid>
+      <description>If you are interested in supporting this event please email us at organizers@gocon.ca or use our contact form. Don&amp;rsquo;t forget to check out our Sponsorship Prospectus!</description>
+    </item>
+    
   </channel>
 </rss>

@@ -3,8 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/code-of-conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
   <url>
@@ -13,8 +30,20 @@
   </url>
   
   <url>
+    <loc>/location/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/1-resources-for-the-new-speakers/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/sponsorship/</loc>
   </url>
   
 </urlset>
