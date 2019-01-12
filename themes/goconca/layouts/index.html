@@ -1,0 +1,25 @@
+{{ define "header" }}
+{{ partial "hero" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ range $.Site.Pages }}
+    {{ if or (eq .URL "/about/") (eq .URL "/sponsorship/") }}
+        <div class="section">
+            <div class="container">
+                <div class="content" id="{{ .Params.ID }}">
+                    <h2>{{ .Title }}</h2>
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        <hr/>
+    {{ end }}
+{{ end }}
+
+
+{{ partial "call-for-papers" . }}
+<hr/>
+{{ partial "mailinglist" . }}
+{{ end }}

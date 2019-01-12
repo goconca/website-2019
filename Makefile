@@ -30,7 +30,7 @@ docker-rm:
 	docker kill website-builder || echo "Not found"
 	docker rm website-builder || echo "Not found"
 
-generate-using-docker: docker-image docker-rm public
+generate-using-docker: docker-image docker-rm public submodules
 	docker run --rm -t -v $(shell pwd):/var/website --name website-builder website-builder make generate
 
 deploy-using-docker: public
@@ -38,8 +38,14 @@ deploy-using-docker: public
 	make deploy
 	make push
 
-preview-using-docker: docker-image docker-rm public
+preview-using-docker: docker-image docker-rm public sudmodules
 	docker run --rm -t -v $(shell pwd):/var/website -p 1313:1313 --name website-builder website-builder make preview
 
-debug-using-docker: docker-image docker-rm public
+debug-using-docker: docker-image docker-rm public submodules
 	docker run --rm -ti -v $(shell pwd):/var/website -p 1313:1313 --name website-builder website-builder bash
+
+sudmodules:
+	git submodule update --init
+
+clean:
+	rm resources/_gen/ -rf

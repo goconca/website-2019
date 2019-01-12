@@ -1,0 +1,25 @@
+<footer class="footer">
+    <div class="content has-text-centered">
+        <div class="columns">
+            <div class="column">
+                <h4>Brought to you with <i class="fas fa-heart"></i> by:</h4>
+
+                {{ range $organizer := .Site.Params.Organizers }}
+                <p><a href="{{ .homepage }}" target="_blank">{{ .name }}</a></p>
+                {{ end }}
+            </div>
+            <div class="column">
+                <h4>Contacts</h4>
+                <p>
+                    <a href="mailto:organizers@gocon.ca">organizers@gocon.ca</a>
+                </p>
+
+                <p>
+                    <a href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+                        <i class="fab fa-twitter"></i> {{ .Site.Params.Twitter }}
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>

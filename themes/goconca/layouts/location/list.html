@@ -1,0 +1,23 @@
+{{ define "head" }}
+<script src="https://maps.google.com/maps/api/js?key={{ .Site.Params.GoogleMapsKey }}"></script>
+{{ end  }}
+
+{{ define "main" }}
+<script defer src="/js/map.js"></script>
+
+<div class="container">
+    <div class="content">
+        <h2 class="">{{ .Title }}</h2>
+
+        <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <span itemprop="streetAddress">{{ .Site.Params.Venue }}, </span>
+            <span itemprop="streetAddress">{{ .Site.Params.Address }}. </span>
+            <span itemprop="addressLocality">{{ .Site.Params.City }}</span>,
+            <span itemprop="addressRegion"> {{ .Site.Params.State }},</span>
+            <span itemprop="addressRegion"> {{ .Site.Params.Postcode }}.</span>
+        </p>
+
+        <div id="map-canvas" class="location-wrapper" data-address="{{ .Site.Params.Address }}, {{ .Site.Params.City }} - {{ .Site.Params.State }}"></div>
+    </div>
+</div>
+{{ end }}
