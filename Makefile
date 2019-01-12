@@ -50,5 +50,5 @@ sudmodules:
 clean:
 	rm resources/_gen/ -rf
 
-sudmodules:
+submodules:
 	git sumbodule update --init
