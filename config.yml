@@ -42,8 +42,10 @@ params:
       twitter:
 
   Nav:
-    - Url: "/#about"
+    - Url: "/about"
       Title: "About"
+    - Url: "/blog/"
+      Title: "Blog"
     - Url: "/#looking-for-sponsors"
       Title: "Sponsoring"
     - Url: "/#call-for-papers"
