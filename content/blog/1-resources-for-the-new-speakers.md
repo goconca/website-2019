@@ -62,7 +62,7 @@ So what does this have to do with anything? You too can mitigate, to some extent
 
 Very few of us go up on stage and "wing it". We practice in front of the mirror, co-workers, family, friends, etc. Over and over.
 
-If you know your talk inside out, practiced it ahead of time, when you go up on stage you'll be confident in delivering you talk will give you the strength to overcome those initial butterflies and jitters. 
+If you know your talk inside out, practiced it ahead of time, when you go up on stage you'll be confident in delivering your talk and it will give you the strength to overcome those initial butterflies and jitters. 
 
 > Just remember, you have a story to tell, an experience to share, and folks are _genuinely_ interested in what you have to say.
 
@@ -85,7 +85,7 @@ We'll leave you with one of our favorite slides:
 
 ### Why GoCon Canada?
 
-We want to ensure new speakers, students of the language and veteras alike, aren't discouraged from submitting a proposal due to the above. Reach out at speakers@gocon.ca.
+We want to ensure new speakers, students of the language and veterans alike, aren't discouraged from submitting a proposal due to the above. Reach out at speakers@gocon.ca.
 
 GoCon Canada is a registered nonprofit community group, run by a bunch of Go enthusiasts.
 
