@@ -5,9 +5,9 @@
 {{ define "main" }}
 {{ range $.Site.Pages }}
     {{ if or (eq .URL "/about/") (eq .URL "/sponsorship/") }}
-        <div class="section">
+        <div class="section" id="{{ .Params.ID }}">
             <div class="container">
-                <div class="content" id="{{ .Params.ID }}">
+                <div class="content">
                     <h2>{{ .Title }}</h2>
                     {{ .Content }}
                 </div>
