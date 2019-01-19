@@ -7,7 +7,7 @@ date: "2019-01-19"
   <div class="column">
     <br>
     <blockquote>
-      Alone, we can do so little; together, we can do so much  
+      Alone, we can do so little; together, we can do so much
       <br>
       -Helen Keller
     </blockquote>
@@ -17,7 +17,7 @@ date: "2019-01-19"
   </div>
 </div>
 
-The Go programming language marked its ninth anniversary in 2018 since it was [first publicly announced](https://opensource.googleblog.com/2009/11/hey-ho-lets-go.html). Both the language and the community took off  🛫, with no signs of slowing down. 
+The Go programming language marked its ninth anniversary in 2018 since it was [first publicly announced](https://opensource.googleblog.com/2009/11/hey-ho-lets-go.html). Both the language and the community took off  🛫, with no signs of slowing down.
 
 Check out [Nine years of Go](https://blog.golang.org/9years) for a brief reflection. Incredible, right?!
 
@@ -43,12 +43,12 @@ Some incredible talks have been given by folks who told a story of their pitfall
 These talks not only benefit others who face similar challenges, but additionally enable the greater community, language and package maintainers to get valuable feedback.
 
 - Did we make the API too complex? Are there not enough examples?
-- Should we add documentation, update the FAQ? 
+- Should we add documentation, update the FAQ?
 - Should we follow up on the user report with a blog post or short video?
 
 At GoCon Canada we'd like to encourage participation from non-experts, because for the Go community to be more than the sum of its parts, each part must make an effort to understand and teach the whole.
 
-You do not need to be an expert to give a conference talk! 
+You do not need to be an expert to give a conference talk!
 
 > Your talk.
 >
@@ -87,11 +87,11 @@ So what does this have to do with anything? You too can overcome that initial hu
 
 > Practice.
 >
-> Rehearse. 
+> Rehearse.
 >
-> Rinse. 
+> Rinse.
 >
-> Repeat. 
+> Repeat.
 
 Very few of us go up on stage and "wing it". We practice in front of the mirror, co-workers, family, friends, etc. Over and over.
 
@@ -107,7 +107,7 @@ We collected a few relevant bits from the world wide web that may help you. Ther
 
 A great place to start is the [Resources for New Speakers](https://github.com/golang/go/wiki/NewSpeakers) wiki, which contains links to blog posts and videos with tips and helpful insights.
 
-Again, there are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section on the golang wiki. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help. Why? 
+Again, there are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section on the golang wiki. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help. Why?
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Once you&#39;ve found success, your next goal should be helping others do the same.</p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/1053389901117325312?ref_src=twsrc%5Etfw">October 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
