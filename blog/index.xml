@@ -10,13 +10,14 @@
     
     
     <item>
-      <title>Resources for new speakers</title>
-      <link>/blog/1-resources-for-the-new-speakers/</link>
+      <title>Come speak at a GoCon Canada 2019</title>
+      <link>/blog/speaker-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/1-resources-for-the-new-speakers/</guid>
-      <description>Main text
-Rest of the text</description>
+      <guid>/blog/speaker-resources/</guid>
+      <description>Alone, we can do so little; together, we can do so much -Helen Keller     The Go programming language marked its ninth anniversary in 2018 since it was first publicly announced. Both the language and the community took off 🛫, with no signs of slowing down.
+Check out Nine years of Go for a brief reflection. Incredible, right?!
+Whether you&amp;rsquo;re a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas and people in this complex and crazy field.</description>
     </item>
     
   </channel>
