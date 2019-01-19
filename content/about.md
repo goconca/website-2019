@@ -11,4 +11,5 @@ Gocon Canada seeks to do just that. We’d love to work with you to grow the bon
 
 Gocon Canada is the first Go conference in Canada. Non-profit event from the community for the community.
 
-<img src="https://mfridman.com/img/gophermega2.png" alt="gophermega" style="height: 62px;"/> The gopher mascot was designed by [Renee French](https://reneefrench.blogspot.com/) / [CC 3.0](https://creativecommons.org/licenses/by/3.0/). For more info check out the [Go Blog](https://blog.golang.org/gopher)
+
+![gophermega](/img/gophermega.png) The gopher mascot was designed by [Renee French](https://reneefrench.blogspot.com/) / [CC 3.0](https://creativecommons.org/licenses/by/3.0/). For more info check out the [Go Blog](https://blog.golang.org/gopher)
