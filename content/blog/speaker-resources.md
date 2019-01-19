@@ -30,7 +30,7 @@ In this post..
 - discuss a few reasons *potential* speakers don't submit proposals
 - provide some of our favorite [resources from the web](#resources-from-the-web) that relate to conference proposals and speaking
 
----
+<!--more-->
 
 ### Not submitting a proposal because..
 
