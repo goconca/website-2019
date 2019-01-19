@@ -1,5 +1,6 @@
 ---
-Title: Go speak - resources for potential speakers
+title: Go speak - resources for potential speakers
+date: "2019-01-19"
 ---
 
 <div class="columns">
