@@ -39,7 +39,7 @@ And guess what?! That's exactly why _you_, yes _you_, should be submitting a pro
 
 Some incredible talks have been given by folks who told a story of their pitfalls and their journey towards a potential solution. They were not experts, but storytellers.
 
-These talks not only benefit others who may be facing similar challenges, but also enable the greater community, language and package maintainers to get a sense of issues faced by others.
+These talks not only benefit others who face similar challenges, but additionally enable the greater community, language and package maintainers to get valuable feedback.
 
 - Did we make the API too complex? Are there not enough examples?
 - Should we add documentation, update the FAQ? 
@@ -69,10 +69,17 @@ At a recent [TED talk](https://www.ted.com/talks/alex_honnold_how_i_climbed_a_3_
 
 The take away from his success is the result of tremendous _preparation ahead of time_.
 
-<div class="column has-text-centered">
-  <img src="/img/free-solo-el-capitan-alex-honnold-chalk-hands.jpg" alt="alex honnold chalk hands" width="500" height="auto">
-  <br>
-<a href="https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan">PHOTOGRAPH BY JIMMY CHIN, NATIONAL GEOGRAPHIC</a>
+<div class="columns has-text-centered">
+  <div class="column">
+    <img src="/img/free-solo-el-capitan-alex-honnold-chalk-hands.jpg" alt="alex honnold chalk hands" width="500" height="auto">
+  </div>
+  <div class="column">
+    <img src="/img/alex-honnold-looking-over.jpg" alt="alex honnold top of mountain" width="500" height="auto">
+  </div>
+</div>
+<div class="columns is-centered">
+  <div class="colmun"><a class="is-size-7" href="https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan">PHOTOGRAPH BY JIMMY CHIN, NATIONAL GEOGRAPHIC</a>
+  </div>
 </div>
 
 So what does this have to do with anything? You too can overcome that initial hurdle of public speaking by being well prepared.
@@ -87,7 +94,7 @@ So what does this have to do with anything? You too can overcome that initial hu
 
 Very few of us go up on stage and "wing it". We practice in front of the mirror, co-workers, family, friends, etc. Over and over.
 
-Knowing the topic and practicing (a bunch) ahead of time gives you the strength to overcome those initial butterflies and jitters. So when you do go up on stage there will be a sense of confidence and sheer excitement to share that which you are passionate about!
+Knowing the topic and practicing ahead of time gives you the strength to overcome those initial butterflies and jitters. So when you do go up on stage there will be a sense of confidence and sheer excitement to share that which you are passionate about!
 
 Just remember, you have a story to tell, an experience to share, and folks are _genuinely_ interested in what you have to say.
 
@@ -99,7 +106,10 @@ We collected a few relevant bits from the world wide web that may help you. Ther
 
 A great place to start is the [Resources for New Speakers](https://github.com/golang/go/wiki/NewSpeakers) wiki, which contains links to blog posts and videos with tips and helpful insights.
 
-Again, there are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help.
+Again, there are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section on the golang wiki. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help. Why? 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Once you&#39;ve found success, your next goal should be helping others do the same.</p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/1053389901117325312?ref_src=twsrc%5Etfw">October 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Carolyn Van Slyck](https://twitter.com/carolynvs) wrote a great post on why you should submit a talk to [GopherCon](https://www.gophercon.com/) (and you totally should!). We highly recommend you [check it out](https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/) because it's a great resource.
 
@@ -117,7 +127,3 @@ We'll leave you with this:
 We want to ensure new speakers, students of the language and veterans alike, aren't discouraged from submitting proposals for any reason.  Reach out at speakers@gocon.ca.
 
 GoCon Canada is a registered nonprofit community group, run by a bunch of Go enthusiasts.
-
----
-
-[^1]: Adapted from the [Ubuntu Code of Conduct v2.0](https://www.ubuntu.com/community/code-of-conduct) and [Go Community Code of Conduct](https://golang.org/conduct)
