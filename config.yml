@@ -42,7 +42,7 @@ params:
       twitter:
 
   Nav:
-    - Url: "/about"
+    - Url: "/#about"
       Title: "About"
     - Url: "/blog/"
       Title: "Blog"
