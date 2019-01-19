@@ -21,16 +21,16 @@
   </url>
   
   <url>
-    <loc>/blog/speaker-resources/</loc>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
   </url>
   
   <url>
     <loc>/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/speaker-resources/</loc>
   </url>
   
   <url>
