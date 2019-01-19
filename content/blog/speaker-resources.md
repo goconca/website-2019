@@ -2,22 +2,32 @@
 Title: Come speak at a GoCon Canada 2019
 ---
 
-> Alone, we can do so little; together, we can do so much  
->
-> -Helen Keller
+<div class="columns">
+  <div class="column">
+    <br>
+    <blockquote>
+      Alone, we can do so little; together, we can do so much  
+      <br>
+      -Helen Keller
+    </blockquote>
+  </div>
+  <div class="column has-text-centered">
+    <img src="/img/mountie_gopher.png" alt="mountie gopher" width="140" height="auto">
+  </div>
+</div>
 
 The Go programming language marked its ninth anniversary in 2018 since it was [first publicly announced](https://opensource.googleblog.com/2009/11/hey-ho-lets-go.html). Both the language and the community took off  🛫, with no signs of slowing down. 
 
-Check out [Nine years of Go](https://blog.golang.org/9years) for a brief reflection .. incredible, right?!
+Check out [Nine years of Go](https://blog.golang.org/9years) for a brief reflection. Incredible, right?!
 
-Whether you're a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas _and people_ in this complex and crazy field.
+Whether you're a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas and people in this complex and crazy field.
 
 GoCon Canada would like to do its part in helping all feel welcome and build a sense of community.
 
-In this post,
+In this post..
 
-- touch on a few reasons *potential* speakers don't submit proposals
-- provide [resources from the web](#resources-from-the-web) that folks might find useful as it relates to conference proposals and speaking
+- discuss a few reasons *potential* speakers don't submit proposals
+- provide some of our favorite [resources from the web](#resources-from-the-web) that relate to conference proposals and speaking
 
 ---
 
@@ -35,43 +45,49 @@ These talks not only benefit others who may be facing similar challenges, but al
 - Should we add documentation, update the FAQ? 
 - Should we follow up on the user report with a blog post or short video?
 
-At GoCon Canada we'd like to encourage participation from non-experts, because for the Go community to be more than the sum of its parts, each part must make an effort to understand the whole.
+At GoCon Canada we'd like to encourage participation from non-experts, because for the Go community to be more than the sum of its parts, each part must make an effort to understand and teach the whole.
 
 You do not need to be an expert to give a conference talk! 
 
 > Your talk.
 >
-> > Your story.
-> >
-> > > Your experience.
-> > >
-> > > > It matters.
+> Your story.
+>
+> Your experience.
+>
+> It matters.
 
 #### I'm not good at public speaking
 
-It's scary. It's nerve-racking. Jitters and butterflies. You start talking, the only voice in the room is yours, mind starts racing and all attention is on you.
+It's scary. It's nerve-racking. Jitters and butterflies. You start talking, the only voice in the room is yours, mind starts racing and all the attention is on you.
 
 Let's stop there, and take a few steps back.
 
-It is inevitable _most of us_ will experience such emotions prior to public speaking. But the good news is that feeling can be mitigated to an extent.
+It is inevitable _most of us_ will experience such emotions prior to public speaking. But the good news is that "feeling" of putting yourself out there can be mitigated to an extent.
 
 At a recent [TED talk](https://www.ted.com/talks/alex_honnold_how_i_climbed_a_3_000_foot_vertical_cliff_without_ropes?language=en) the famous rock climber, Alex Honnold, describes how he mentally prepared for a 3,000-foot vertical ascent of El Capitan. What's the big deal? He did it with no harness; just climbing shoes, a t-shirt and a chalk bag.
 
 The take away from his success is the result of tremendous _preparation ahead of time_.
 
+<div class="column has-text-centered">
+  <img src="/img/free-solo-el-capitan-alex-honnold-chalk-hands.jpg" alt="alex honnold chalk hands" width="500" height="auto">
+  <br>
+<a href="https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan">PHOTOGRAPH BY JIMMY CHIN, NATIONAL GEOGRAPHIC</a>
+</div>
+
 So what does this have to do with anything? You too can overcome that initial hurdle of public speaking by being well prepared.
 
 > Practice.
 >
-> > Rehearse. 
-> >
-> > > Rinse. 
-> > >
-> > > > Repeat. 
+> Rehearse. 
+>
+> Rinse. 
+>
+> Repeat. 
 
 Very few of us go up on stage and "wing it". We practice in front of the mirror, co-workers, family, friends, etc. Over and over.
 
-If you know your talk and practiced it ahead of time, when you go up on stage there will be a sense of confidence delivering your talk. It will give you the strength to overcome those initial butterflies and jitters. 
+Knowing the topic and practicing (a bunch) ahead of time gives you the strength to overcome those initial butterflies and jitters. So when you do go up on stage there will be a sense of confidence and sheer excitement to share that which you are passionate about!
 
 Just remember, you have a story to tell, an experience to share, and folks are _genuinely_ interested in what you have to say.
 
@@ -79,15 +95,15 @@ Just remember, you have a story to tell, an experience to share, and folks are _
 
 ### Resources from the web
 
-We collected a few relevant bits from the world wide web to help you.
+We collected a few relevant bits from the world wide web that may help you. There is a lot of great content out there and many, many really amazing people want to see you succeed.
 
-[Resources for New Speakers](https://github.com/golang/go/wiki/NewSpeakers) wiki contains links to amazing blog posts and videos with various tips and helpful insights.
+A great place to start is the [Resources for New Speakers](https://github.com/golang/go/wiki/NewSpeakers) wiki, which contains links to blog posts and videos with tips and helpful insights.
 
-There are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help.
+Again, there are folks within the Go community *that want to help you*, check out the [Contact Us](https://github.com/golang/go/wiki/NewSpeakers#contact-us) section. Alternatively, reach out to us at speakers@gocon.ca and we'll do our best to help.
 
-[Carolyn Van Slyck](https://twitter.com/carolynvs) wrote a great post on why you should submit a talk to [GopherCon](https://www.gophercon.com/) (and you totally should!). We highly recommend you [check it out](https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/) because it's a great resource in general.
+[Carolyn Van Slyck](https://twitter.com/carolynvs) wrote a great post on why you should submit a talk to [GopherCon](https://www.gophercon.com/) (and you totally should!). We highly recommend you [check it out](https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/) because it's a great resource.
 
-[Aaron Schlesinger](Aaron Schlesinger) also had a great post for the upcoming [GOPHERCON 2019 CFP OMG!](https://arschles.com/blog/gophercon-2019-cfp-omg/). The general concepts will apply in general.
+[Aaron Schlesinger](https://arschles.com/) also had a great post for the upcoming [GOPHERCON 2019 CFP OMG!](https://arschles.com/blog/gophercon-2019-cfp-omg/). The general concepts are relevant for all.
 
 We'll leave you with this:
 
