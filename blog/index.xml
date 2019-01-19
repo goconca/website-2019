@@ -5,6 +5,7 @@
     <link>/blog/</link>
     <description>Recent content in Blogs on GOCON CANADA</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -12,12 +13,37 @@
     <item>
       <title>Go speak - resources for potential speakers</title>
       <link>/blog/speaker-resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/speaker-resources/</guid>
-      <description>Alone, we can do so little; together, we can do so much -Helen Keller     The Go programming language marked its ninth anniversary in 2018 since it was first publicly announced. Both the language and the community took off 🛫, with no signs of slowing down.
-Check out Nine years of Go for a brief reflection. Incredible, right?!
-Whether you&amp;rsquo;re a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas and people in this complex and crazy field.</description>
+      <description>&lt;div class=&#34;columns&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;br&gt;
+    &lt;blockquote&gt;
+      Alone, we can do so little; together, we can do so much
+      &lt;br&gt;
+      -Helen Keller
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column has-text-centered&#34;&gt;
+    &lt;img src=&#34;/img/mountie_gopher.png&#34; alt=&#34;mountie gopher&#34; width=&#34;140&#34; height=&#34;auto&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Go programming language marked its ninth anniversary in 2018 since it was &lt;a href=&#34;https://opensource.googleblog.com/2009/11/hey-ho-lets-go.html&#34;&gt;first publicly announced&lt;/a&gt;. Both the language and the community took off  🛫, with no signs of slowing down.&lt;/p&gt;
+
+&lt;p&gt;Check out &lt;a href=&#34;https://blog.golang.org/9years&#34;&gt;Nine years of Go&lt;/a&gt; for a brief reflection. Incredible, right?!&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas and people in this complex and crazy field.&lt;/p&gt;
+
+&lt;p&gt;GoCon Canada would like to do its part in helping all feel welcome and build a sense of community.&lt;/p&gt;
+
+&lt;p&gt;In this post..&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;discuss a few reasons &lt;em&gt;potential&lt;/em&gt; speakers don&amp;rsquo;t submit proposals&lt;/li&gt;
+&lt;li&gt;provide some of our favorite &lt;a href=&#34;#resources-from-the-web&#34;&gt;resources from the web&lt;/a&gt; that relate to conference proposals and speaking&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
