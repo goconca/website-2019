@@ -10,3 +10,5 @@ Rated the "Most promising programming language" of 2018 in a recent JetBrains su
 Gocon Canada seeks to do just that. We’d love to work with you to grow the bonds between communities. Our goal is to host an event with strong technical discussions and plenty of opportunities to network, right here in Canada.
 
 Gocon Canada is the first Go conference in Canada. Non-profit event from the community for the community.
+
+<img src="https://mfridman.com/img/gophermega2.png" alt="gophermega" style="height: 62px;"/> The gopher mascot was designed by [Renee French](https://reneefrench.blogspot.com/) / [CC 3.0](https://creativecommons.org/licenses/by/3.0/). For more info check out the [Go Blog](https://blog.golang.org/gopher)
