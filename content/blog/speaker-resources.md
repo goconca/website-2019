@@ -28,7 +28,7 @@ GoCon Canada would like to do its part in helping all feel welcome and build a s
 In this post..
 
 - discuss a few reasons *potential* speakers don't submit proposals
-- provide some of our favorite [resources from the web](#resources-from-the-web) that relate to conference proposals and speaking
+- provide some of our favorite [resources from the web](/speaker-resources/#resources-from-the-web) that relate to conference proposals and speaking
 
 <!--more-->
 
