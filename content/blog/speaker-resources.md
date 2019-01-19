@@ -1,5 +1,5 @@
 ---
-Title: Come speak at a GoCon Canada 2019
+Title: Go speak - resources for potential speakers
 ---
 
 <div class="columns">
