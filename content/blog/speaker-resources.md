@@ -126,4 +126,4 @@ We'll leave you with this:
 
 We want to ensure new speakers, students of the language and veterans alike, aren't discouraged from submitting proposals for any reason.  Reach out at speakers@gocon.ca.
 
-GoCon Canada is a registered nonprofit community group, run by a bunch of Go enthusiasts.
+GoCon Canada is a registered nonprofit community group, run by a bunch of Go enthusiasts from 🇨🇦.
