@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 {{ range $.Site.Pages }}
-    {{ if or (eq .URL "/about/") (eq .URL "/sponsorship/") }}
+    {{ if or (eq .URL "/about/") (eq .URL "/tickets/") (eq .URL "/sponsorship/") }}
         <div class="section" id="{{ .Params.ID }}">
             <div class="container">
                 <div class="content">
@@ -19,7 +19,5 @@
 {{ end }}
 
 
-{{ partial "call-for-papers" . }}
-<hr/>
 {{ partial "mailinglist" . }}
 {{ end }}

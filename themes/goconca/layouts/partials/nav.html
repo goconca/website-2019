@@ -17,7 +17,11 @@
             </a>
 
             {{ range $.Site.Params.Nav }}
-            <a class="navbar-item" href="{{ .Url }}">
+            <a class="navbar-item" href="{{ .Url }}" target="{{ .Target }}">
+                {{ if .Icon }}
+                <i class="fas {{ .Icon }}"></i>
+                &nbsp;
+                {{ end }}
                 {{ .Title }}
             </a>
             {{ end }}
