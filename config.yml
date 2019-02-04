@@ -44,8 +44,8 @@ params:
   Nav:
     - Url: "/#about"
       Title: "About"
-    #- Url: "/#tickets"
-    #  Title: "Tickets"
+    - Url: "/#tickets"
+      Title: "Tickets"
     - Url: "/blog/"
       Title: "Blog"
     - Url: "/#looking-for-sponsors"
