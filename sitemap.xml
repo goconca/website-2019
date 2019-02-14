@@ -45,6 +45,10 @@
   </url>
   
   <url>
+    <loc>/sponsors/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
   </url>

@@ -78,6 +78,15 @@ These are the values to which people attending this event should aspire:  Be fri
     </item>
     
     <item>
+      <title>Our Sponsors</title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description> Silver   Bronze   </description>
+    </item>
+    
+    <item>
       <title>We are looking for sponsors!</title>
       <link>/sponsorship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
