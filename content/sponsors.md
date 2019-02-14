@@ -18,5 +18,5 @@ ID: sponsors
 ### Bronze
 
 <div class="section sponsor bronze">
-  <a href="https://www.manifold.co/" target="_blank"><img src="/img/sponsors/manifold-logo.png"/></a>
+  <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship" target="_blank"><img src="/img/sponsors/manifold-logo.png"/></a>
 </div>
