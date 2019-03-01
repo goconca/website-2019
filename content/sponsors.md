@@ -3,9 +3,13 @@ Title: Our Sponsors
 ID: sponsors
 ---
 
-<!--
 ### Platinum
 
+<div class="section sponsor platinum">
+  <a href="https://crowdriff.com/" target="_blank"><img src="/img/sponsors/crowdriff-logo.png"/></a>
+</div>
+
+<!--
 ### Gold
 -->
 
