@@ -48,10 +48,10 @@ Being a small group comprised of individuals, we simply do not have funds to hos
 
 Furthermore, we believe it is mutually beneficial to partner with companies who adopted or are considering adopting Go.
 
-Companies provide an opportunity for Gophers to do what they love and pay them for it and we get funding to put together an awesome event in exchange for:
+Companies provide an opportunity for Gophers to do what they love and pay them for it, and we get funds to put together an awesome event in exchange for:
 
-1. enabling employers to convey the intention of hiring (which is a win win for potential employees and employers)
-2. some promotion and marketing on their behalf
+1. promoting those companies that are hiring (which is really a win win for potential employees and employers)
+2. brand awareness through marketing and announcements
 
 Communities are built alongside companies and it is an opportunity for both sides to discover each other within the ecosystem.
 
@@ -59,7 +59,7 @@ At the time of this post the following companies have sponsored us, and we are r
 
 <div class="columns has-text-centered">
   <div class="column">
-    <a href="https://crowdriff.com/"><img src="/img/sponsors/crowdriff-logo.png" alt="sponsor crowdriff" width="240" height="auto"></a>
+    <a href="https://crowdriff.com/"><img src="/img/sponsors/crowdriff-logo.png" alt="sponsor crowdriff" width="240" height="auto" style="padding-tope:20px;"></a>
   </div>
   <div class="column">
     <a href="https://kirasystems.com/"><img src="/img/sponsors/kira-logo.svg" alt="sponsor kirasystems" width="180" height="auto"></a>
@@ -102,12 +102,12 @@ There is probably more, but here are a few ideas
 
 - Diversity and fairness is important. Do you come from an underrepresented group? If so, help us review CFPs and provide feedback or let us know how this process can be improved.
 
-- Consider submitting a CFP. Check out [Go speak - resources for potential speakers](/blog/speaker-resources/).
+- Submit a CFP. Check out [Go speak - resources for potential speakers](/blog/speaker-resources/).
 
 - If your company adopted or is thinking of adopting Go within their stack consider asking if they'd be willing to be a sponsor.
 
-- Help us spread the word about the event.
+- Help spread the word about the event.
 
-- Give us feedback. What you like or dislike about what we're doing, where can we improve, etc.
+- Give us feedback at <a href="mailto:organizers@gocon.ca">organizers@gocon.ca</a>. How are we doing, what can we improve, what would you like to see more/less of?
 
 - Purchase a [ticket](<https://www.eventbrite.ca/e/gocon-canada-2019-tickets-54500830451>), see you there :)
