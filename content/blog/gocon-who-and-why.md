@@ -7,7 +7,7 @@ Since the inception of GoCon Canada many folks reached out with questions about 
 
 <!--more-->
 
-To be elaborated, but the short answer to the "why?!" can be answered with a tweet:
+To be elaborated below, but the short answer to the "why?!" can be answered with a tweet:
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">It’s been said to me by several people now that I “push” <a href="https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw">#golang</a> so much that they thought I worked in <a href="https://twitter.com/hashtag/DevRel?src=hash&amp;ref_src=twsrc%5Etfw">#DevRel</a> for Google. <br><br>I don’t, friends. I’m just a developer who loves working with a technology and wants to share that passion with those with whom I interact.</p>&mdash; Johnny Boursiquot (@jboursiquot) <a href="https://twitter.com/jboursiquot/status/1086681603319967744?ref_src=twsrc%5Etfw">January 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -24,7 +24,7 @@ So, given we like Go and the community, a lot, it felt natural to put together a
 
 ---
 
-##### Q:  Do you have experience running conferences and is there a third party managing the event?
+##### Q:  Do you have experience running conferences? Is there a third party managing the event?
 
 Combined, we helped organize community events such as PyCon Canada, Dutch Clojure days, Polyhack and Go meetups in Toronto and Ottawa. We do this for fun, not profit or fame.
 
@@ -110,4 +110,4 @@ There is probably more, but here are a few ideas
 
 - Give us feedback. What you like or dislike about what we're doing, where can we improve, etc.
 
-- Pruchase a [ticket](<https://www.eventbrite.ca/e/gocon-canada-2019-tickets-54500830451>), see you there :)
+- Purchase a [ticket](<https://www.eventbrite.ca/e/gocon-canada-2019-tickets-54500830451>), see you there :)
