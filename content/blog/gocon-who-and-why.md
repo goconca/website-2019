@@ -1,18 +1,18 @@
 ---
 title: GoCon Canada, but why?! And who?
-date: "2019-03-03"
+date: "2019-03-16"
 ---
 
 Since the inception of GoCon Canada many folks reached out with questions about the event and organizers. So we thought why not answer these and a few others.
 
-We will elaborate, but the short answer to the "why?!" can be answered with a tweet:
+<!--more-->
+
+To be elaborated, but the short answer to the "why?!" can be answered with a tweet:
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">It’s been said to me by several people now that I “push” <a href="https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw">#golang</a> so much that they thought I worked in <a href="https://twitter.com/hashtag/DevRel?src=hash&amp;ref_src=twsrc%5Etfw">#DevRel</a> for Google. <br><br>I don’t, friends. I’m just a developer who loves working with a technology and wants to share that passion with those with whom I interact.</p>&mdash; Johnny Boursiquot (@jboursiquot) <a href="https://twitter.com/jboursiquot/status/1086681603319967744?ref_src=twsrc%5Etfw">January 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Much like Johnny, we're a small group of enthusiastic developers and a designer who like a particular technology. The Go programming language promised to "make us love programming again" and we could not agree more!
-
-<!--more-->
 
 Not only is Go a solid piece of tech to have in your toolbox, but there is a wonderful community and ecosystem surrounding it. Folks who Go are typically referred to as "Gophers" and are found all over the world.
 
@@ -21,13 +21,14 @@ There have been dozens of Go Conferences including, but not limited to, Denver, 
 <div class="has-text-centered has-text-weight-bold is-size-5">
 So, given we like Go and the community, a lot, it felt natural to put together a Go-specific conference in Toronto, Canada 🇨🇦.
 </div>
+
 ---
 
 ##### Q:  Do you have experience running conferences and is there a third party managing the event?
 
-Are we doing this professionally? No. Did we hire a third party to manage the event? No.
+Combined, we helped organize community events such as PyCon Canada, Dutch Clojure days, Polyhack and Go meetups in Toronto and Ottawa. We do this for fun, not profit or fame.
 
-But, combined, we helped organize events such as PyCon Canada, Dutch Clojure days, Polyhack, and Go meetups in Toronto and Ottawa.
+No, we did not hire a third party to manage this event.
 
 ##### Q:	Who is behind GoCon Canada?
 
@@ -49,8 +50,8 @@ Furthermore, we believe it is mutually beneficial to partner with companies who 
 
 Companies provide an opportunity for Gophers to do what they love and pay them for it and we get funding to put together an awesome event in exchange for:
 
-1. providing an opportunity to bring potential employees and employers together
-2. some promotion and marketing
+1. enabling employers to convey the intention of hiring (which is a win win for potential employees and employers)
+2. some promotion and marketing on their behalf
 
 Communities are built alongside companies and it is an opportunity for both sides to discover each other within the ecosystem.
 
@@ -91,19 +92,19 @@ This is a community event. We hope all talks will be pure and in the spirit of b
 
 ##### Q:  Why so few email updates? Will you share/sell mailing list?
 
-Our intention is to provide relevant updates pertaining to GoCon, that's it. We apologize if some would like more frequent updates, but at this time we'd like to respect the Inbox of that majority and focus on updates we think matter. [twitter/goconcanada](https://twitter.com/goconcanada) gets more updates.
+Our intention is to provide relevant updates pertaining to GoCon, that's it. We apologize if some would like more frequent updates, but at this time we'd like to respect The Inbox of the majority and focus on updates we think matter. [twitter/goconcanada](https://twitter.com/goconcanada) gets more updates.
 
-We will not share or sell mailing list. Trust is worth more to us than $$.
+We will not share or sell our mailing list. Trust is worth more to us than $$.
 
 ##### Q:  What can I do to get involved with GoCon?
 
-There is probably more, but here are some ideas
+There is probably more, but here are a few ideas
 
 - Diversity and fairness is important. Do you come from an underrepresented group? If so, help us review CFPs and provide feedback or let us know how this process can be improved.
 
 - Consider submitting a CFP. Check out [Go speak - resources for potential speakers](/blog/speaker-resources/).
 
-- If your company adopted or is thinking of adopting Go within their stack consider asking if they'd ba willing to be a sponsor.
+- If your company adopted or is thinking of adopting Go within their stack consider asking if they'd be willing to be a sponsor.
 
 - Help us spread the word about the event.
 
