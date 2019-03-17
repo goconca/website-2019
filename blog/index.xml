@@ -5,10 +5,19 @@
     <link>/blog/</link>
     <description>Recent content in Blogs on GOCON CANADA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GoCon Canada, but why?! And who?</title>
+      <link>/blog/gocon-who-and-why/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gocon-who-and-why/</guid>
+      <description>&lt;p&gt;Since the inception of GoCon Canada many folks reached out with questions about the event and organizers. So we thought why not answer these and a few others.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Go speak - resources for potential speakers</title>
