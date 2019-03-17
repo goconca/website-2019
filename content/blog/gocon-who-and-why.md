@@ -59,13 +59,13 @@ At the time of this post the following companies have sponsored us, and we are r
 
 <div class="columns has-text-centered">
   <div class="column">
-    <a href="https://crowdriff.com/"><img src="/img/sponsors/crowdriff-logo.png" alt="sponsor crowdriff" width="240" height="auto" style="padding-tope:20px;"></a>
+    <a href="https://crowdriff.com/"><img src="/img/sponsors/crowdriff-logo.png" alt="sponsor crowdriff" width="240" height="auto" style="padding-top:20px;"></a>
   </div>
   <div class="column">
     <a href="https://kirasystems.com/"><img src="/img/sponsors/kira-logo.svg" alt="sponsor kirasystems" width="180" height="auto"></a>
   </div>
   <div class="column">
-    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship"><img src="/img/sponsors/manifold-logo.png" alt="sponsor manifold" width="240" height="auto"></a>
+    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship"><img src="/img/sponsors/manifold-logo.png" alt="sponsor manifold" width="220" height="auto"></a>
   </div>
 </div>
 
