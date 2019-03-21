@@ -83,20 +83,21 @@ body {
 }
 
 .sponsor {
-  &.platinum {
-    max-width: 700px;
-  }
+  .column:first-child {
+    &.platinum {
+      max-width: 700px;
+    }
 
-  &.gold {
-    max-width: 600px;
-  }
+    &.gold {
+      max-width: 600px;
+    }
 
-  &.silver {
-    max-width: 500px;
-  }
+    &.silver {
+      max-width: 500px;
+    }
 
-  &.bronze {
-    max-width: 400px;
+    &.bronze {
+      max-width: 400px;
+    }
   }
-
 }
