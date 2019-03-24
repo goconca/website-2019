@@ -78,10 +78,10 @@ ID: sponsors
       <img src="/img/sponsors/kira-logo.svg"/>
     </a>
   </div>
-  <div class="is-divider-vertical"></div>
+  <!-- <div class="is-divider-vertical"></div>
   <div class="column is-one-third diversity">
     <a href="https://customer.io/" target="_blank">
       <img src="/img/sponsors/customer-io-logo-color.svg"/>
     </a>
-  </div>
+  </div> -->
 </div>
