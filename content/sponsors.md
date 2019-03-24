@@ -22,13 +22,13 @@ ID: sponsors
 </div>
 
 
-### Gold
+<!-- ### Gold
 
 <div class="section sponsor columns">
   <div class="column gold">
   This slot is feeling a bit empty.
   </div>
-</div>
+</div> -->
 
 
 ### Silver
@@ -68,7 +68,7 @@ ID: sponsors
 ### Diversity
 
 <!-- row 1 -->
-<div class="columns sponsor is-vcentered is-centered">
+<div class="section columns sponsor is-vcentered is-centered">
   <div class="column is-one-third diversity">
     <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship" target="_blank"><img src="/img/sponsors/manifold-logo.png"/></a>
   </div>
@@ -78,10 +78,10 @@ ID: sponsors
       <img src="/img/sponsors/kira-logo.svg"/>
     </a>
   </div>
-  <!-- <div class="is-divider-vertical"></div>
+  <div class="is-divider-vertical"></div>
   <div class="column is-one-third diversity">
     <a href="https://customer.io/" target="_blank">
       <img src="/img/sponsors/customer-io-logo-color.svg"/>
     </a>
-  </div> -->
+  </div>
 </div>
