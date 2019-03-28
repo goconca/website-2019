@@ -16,9 +16,9 @@ ID: sponsors
     attractions and resorts. <span class="tag is-warning"><a href="https://crowdriff.com/careers/" target="_blank"
         style="color:inherit;">Hiring</a></span>
     <br><br>
-    <a href="https://jobs.lever.co/crowdriff/cc050fd9-5638-47da-91cc-7efcbaade6e0">Senior Back-End Developer</a>
+    <a href="https://jobs.lever.co/crowdriff/cc050fd9-5638-47da-91cc-7efcbaade6e0" target="_blank">Senior Back-End Developer</a>
     <br>
-    <a href="https://jobs.lever.co/crowdriff/47232762-ed97-4177-b6b4-fad18ef1ed83">Senior Front-End Developer</a>
+    <a href="https://jobs.lever.co/crowdriff/47232762-ed97-4177-b6b4-fad18ef1ed83" target="_blank">Senior Front-End Developer</a>
   </div>
 </div>
 
@@ -37,10 +37,10 @@ ID: sponsors
         target="_blank" style="color:inherit;">Hiring</a></span>
     <br>
     <br>
-    <a href="https://careers.hootsuite.com/global/en/job/1548745/Software-Developer-Back-End-Platform">Software
+    <a href="https://careers.hootsuite.com/global/en/job/1548745/Software-Developer-Back-End-Platform" target="_blank">Software
       Developer, Back-End Platform</a>
     <br>
-    <a href="https://careers.hootsuite.com/global/en/job/1484839/Senior-Developer-Back-End-Platform">Senior Developer,
+    <a href="https://careers.hootsuite.com/global/en/job/1484839/Senior-Developer-Back-End-Platform" target="_blank">Senior Developer,
       Back-End Platform</a>
     <br>
   </div>
@@ -72,9 +72,11 @@ ID: sponsors
     to take the hassle out of integrative healthcare.
     <br>
     <br>
-    <span class="tag is-warning"><a
-        href="https://fullscript.com/careers?utm_source=conference&utm_medium=social&utm_campaign=GoCon" target="_blank"
-        style="color:inherit;">We are hiring!</a></span>
+    <span class="tag is-warning">
+      <a href="https://fullscript.com/careers?utm_source=conference&utm_medium=social&utm_campaign=GoCon" target="_blank" style="color:inherit;">
+        We are hiring!
+      </a>
+    </span>
   </div>
 </div>
 
@@ -82,8 +84,9 @@ ID: sponsors
 
 <div class="section sponsor columns">
   <div class="column is-3 bronze">
-    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship"
-      target="_blank"><img src="/img/sponsors/manifold-logo.png" /></a>
+    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship" target="_blank">
+      <img src="/img/sponsors/manifold-logo.png" />
+    </a>
   </div>
   <div class="column">
     We’re dedicated to changing the way developers and cloud services work together.
@@ -99,8 +102,9 @@ ID: sponsors
 <!-- row 1 -->
 <div class="section columns sponsor is-vcentered is-centered">
   <div class="column is-one-third diversity">
-    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship"
-      target="_blank"><img src="/img/sponsors/manifold-logo.png" /></a>
+    <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship" target="_blank">
+      <img src="/img/sponsors/manifold-logo.png" />
+    </a>
   </div>
   <div class="is-divider-vertical"></div>
   <div class="column is-one-third diversity">
