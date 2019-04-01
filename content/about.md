@@ -1,6 +1,7 @@
 ---
 Title: About
 ID: about
+order: 1
 ---
 
 Go has become a critical tool in the arsenal of software development teams across Canada.
