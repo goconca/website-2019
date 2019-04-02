@@ -62,6 +62,8 @@ params:
     #   Title: "Sponsors"
     # - Url: "/partners/"
     #   Title: "Partners"
+    - Url: "/#diversity-scholarship"
+      Title: "Diversity Scholarship"
     - Url: "/contact/"
       Title: "Contact"
     - Url: "/#mailinglist"

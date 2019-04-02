@@ -3,8 +3,8 @@
 {{ end }}
 
 {{ define "main" }}
-{{ range $.Site.Pages }}
-    {{ if or (eq .URL "/about/") (eq .URL "/tickets/") (eq .URL "/sponsors/") (eq .URL "/sponsorship/") }}
+{{ range $.Site.Pages.ByParam "order" }}
+    {{ if .Params.Order }}
         <div class="section" id="{{ .Params.ID }}">
             <div class="container">
                 <div class="content">
