@@ -2,7 +2,7 @@
     "name": "Denise Yu",
     "title": "Intro to Test-Driven Development in Go",
     "twitter": "deniseyu21",
-    "desc": [
+    "bio": [
         "Denise is a software engineer who occasionally wears a product management hat at Pivotal R&D in Toronto. Denise has previously delivered conference talks on topics ranging from continuous delivery to functional programming to scaling company culture.",
         "She enjoys learning about distributed systems, release engineering, and low-level Linux kernel programming, and when she's not coding, she is often doodling sketch notes that break down technical concepts into digestible pieces at https://deniseyu.io/art"
     ],

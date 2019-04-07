@@ -2,7 +2,7 @@
     "name": "James Bowes",
     "title": "A Token Of Respect: Implementing Microservice Identity And Access Management In Go",
     "twitter": "jrbowes",
-    "desc": [
+    "bio": [
         "James Bowes is the CTO of Manifold. Over his 14 year career he has worked for companies like Red Hat and Salesforce as a senior member of the technical staff. James has scaled early stage startups and also managed and sustained large organizations. James is mainly a backend developer, focusing on thorny concurrency issues, but whenever he can, he likes to build infrastructure, try out cool new software, help his peers learn, and make people laugh."
     ],
     "img_location": "https://pbs.twimg.com/profile_images/1089929640213389315/mnPFPCt2_400x400.jpg",

@@ -2,7 +2,7 @@
     "name": "Topher Bullock",
     "title": "Effective Goroutine Cancellation",
     "twitter": "topherbullock",
-    "desc": [
+    "bio": [
         "Topher is a senior software engineer at Pivotal and is based out of the Toronto, Canada office. On the Pivotal Cloud R&D team he has experience working on distributed systems, infrastructure automation, Concourse, Cloud Foundry, Service Broker APIs, and Mobile Apps. ",
         "He was recently selected as one of Canada's Software Developer Top 30 Under 30."
     ],
