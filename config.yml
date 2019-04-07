@@ -2,6 +2,7 @@ baseurl: "/"
 title: "GOCON CANADA"
 canonifyurls: true
 theme: "goconca"
+dataDir: "Dat"
 
 GoogleAnalytics: "UA-127047731-1"
 
