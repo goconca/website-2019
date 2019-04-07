@@ -1,0 +1,12 @@
+{
+    "name": "Dmitri Shuralyov",
+    "title": "Demystifying Modules: under the hood of the Go toolchain",
+    "twitter": "dmitshur",
+    "desc": [
+        "Software engineer and an avid gopher. He strives to make software more delightful.",
+        "Coming from a game development and graphics/UI background where C++ was used predominantly, he discovered and made a full switch to Go six years ago, which lead to increased developer happiness.",
+        "In his spare time, he's mostly working on software development tools and exploring experimental ideas. He enjoys contributing to open source, fixing issues in existing tools and the Go project itself."
+    ],
+    "img_location": "https://dmitri.shuralyov.com/avatar.jpg",
+    "website_order": 2
+}
