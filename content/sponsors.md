@@ -94,7 +94,13 @@ order: 4
     <br>
     <br>
     With diverse backgrounds from places like Halifax, Toronto, San Francisco and beyond, we are united by enthusiasm
-    for great products and passion for enabling productivity for developers.
+    for great products and passion for enabling productivity for developers. <span class="tag is-warning"><a href="https://www.manifold.co/careers" target="_blank" style="color:inherit;">Hiring</a></span>
+    <br>
+    <br>
+    <a href="https://jobs.careerbeacon.com/details/senior-backend-developer-go/1497371" target="_blank">Senior Back-end Developer, Go</a>
+    <br>
+    <a href="https://jobs.careerbeacon.com/details/junior-or-intermediate-backend-developer-go/1497373" target="_blank">Junior or Intermediate Back-end Developer, Go</a>
+    <br>
   </div>
 </div>
 
