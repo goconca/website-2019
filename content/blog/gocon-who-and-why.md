@@ -32,7 +32,7 @@ No, we did not hire a third party to manage this event.
 
 ##### Q:	Who is behind GoCon Canada?
 
-[Dylan](https://dylanarbour.com/), [Zach](https://zachgoldstein.github.io/), [Lubov](https://www.lubovsoltan.com/), [Max](https://gonzih.me/) and [Mike](https://mfridman.com). We registered a **non-profit** organization called **GoCon Community Group** with the intention of:
+[Dylan](https://dylanarbour.com/), [Zach](https://zachgoldstein.github.io/), [Lubov](https://lubovsoltan.wixsite.com/lubovsoltan), [Max](https://gonzih.me/) and [Mike](https://mfridman.com). We registered a **non-profit** organization called **GoCon Community Group** with the intention of:
 
 > a. holding conferences, workshops and community events;
 >
