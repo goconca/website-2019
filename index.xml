@@ -112,7 +112,7 @@ To apply, simply complete this form before April 30th at 11:59 EST.</description
       
       <guid>/speakers/</guid>
       <description>Putting things in order is hard. So we iterated over a map (which as of Go 1.0 is unordered) and got..
-List of speakers on the Go playground   webrpc: A better way to write backends for modern Web apps         Peter Kieltyka @peterk Chief architect behind Horizon Games. Having co-founded both NuLayer and Pressly, he&amp;#39;s passionate about creating awesome teams and powerful products.</description>
+List of speakers on the Go playground   webrpc: a simpler way to write api services for modern Web apps         Peter Kieltyka @peterk Chief architect behind Horizon Games. Having co-founded both NuLayer and Pressly, he&amp;#39;s passionate about creating awesome teams and powerful products.</description>
     </item>
     
     <item>
