@@ -23,6 +23,7 @@ order: 4
   </div>
 </div>
 
+---
 
 ### Gold
 
@@ -47,6 +48,7 @@ order: 4
   </div>
 </div>
 
+---
 
 ### Silver
 
@@ -81,6 +83,8 @@ order: 4
   </div>
 </div>
 
+---
+
 ### Bronze
 
 <div class="section sponsor columns">
@@ -103,6 +107,21 @@ order: 4
     <br>
   </div>
 </div>
+
+<div class="section sponsor columns">
+  <div class="column is-3 bronze">
+    <a href="https://sentry.io/welcome/" target="_blank">
+      <img src="/img/sponsors/sentry-logo.svg" />
+    </a>
+  </div>
+  <div class="column">
+    You’re a very good developer… Probably. Regardless, you write bugs. That’s unavoidable. What is avoidable is wasting time trying to track down the cause of those bugs. 
+    <br><br>
+    <a href="https://sentry.io/welcome/" target="_blank">Sentry.io</a> provides open source, full-stack error tracking that lets you monitor and fix problems in real time. See the severity and scope of any error, get immediate access to the stack trace, connect the problem directly to the commit that caused it, and fix it without delay. <span class="tag is-warning"><a href="https://sentry.io/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
+  </div>
+</div>
+
+---
 
 ### Diversity
 
