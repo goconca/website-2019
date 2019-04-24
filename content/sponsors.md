@@ -61,6 +61,21 @@ order: 4
   <div class="column">
     <a href="https://kirasystems.com/" target="_blank">Kira Systems</a>, one of the fastest growing AI software companies in Toronto, uses sophisticated machine learning to
     help automate the review and analysis of contracts and other business documents.
+    <span class="tag is-warning"><a href="https://www.kirasystems.com/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
+    <br>
+    <br>
+    <a href="https://www.kirasystems.com/careers/?gh_jid=4189139002" target="_blank">
+      Senior Software Developer
+    </a>
+    <br>
+    <a href="https://www.kirasystems.com/careers/?gh_jid=4255691002" target="_blank">
+      Software Developer - Front End
+    </a>
+    <br>
+    <a href="https://www.kirasystems.com/careers/?gh_jid=4255827002" target="_blank">
+      Software Development Lead
+    </a>
+    <br>
   </div>
 </div>
 <div class="section sponsor columns is-vcentered">
