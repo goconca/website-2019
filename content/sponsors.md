@@ -23,6 +23,30 @@ order: 4
   </div>
 </div>
 
+<div class="section sponsor columns is-vcentered">
+  <div class="column is-6 platinum">
+    <a href="https://flybits.com/" target="_blank">
+      <img src="/img/sponsors/flybits-logo.png" /></a>
+  </div>
+  <div class="column is-1"></div>
+  <div class="column">
+    <a href="https://flybits.com/" target="_blank">Flybits</a> helps banks address customer expectations for personalized experiences that meet their day-to-day needs and life goals. Our contextual recommendation engine transforms digital channels by delivering hyper-personalized products, services and content when their customers need it most. 
+    <span class="tag is-warning"><a href="https://flybits.com/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
+    <br><br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSOMUPtq24dRk" target="_blank">Senior Backend Engineer</a>
+    <br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSMC9iv19Wmgv" target="_blank">Backend Engineer</a>
+    <br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSJdWk3FmZrtH" target="_blank">DevOps Engineer</a>
+    <br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSGak9DeSGSAQ" target="_blank">Performance Engineer</a>
+    <br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSNPedP-8YDci" target="_blank">Test Automation Architect</a>
+    <br>
+      <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSHoCrbGrFmi2" target="_blank">Application Security Engineer</a>
+  </div>
+</div>
+
 ---
 
 ### Gold
