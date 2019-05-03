@@ -26,11 +26,11 @@ order: 4
 <div class="section sponsor columns is-vcentered">
   <div class="column is-6 platinum">
     <a href="https://flybits.com/" target="_blank">
-      <img src="/img/sponsors/flybits-logo.png" /></a>
+      <img src="/img/sponsors/flybits-logo.jpg" /></a>
   </div>
   <div class="column is-1"></div>
   <div class="column">
-    <a href="https://flybits.com/" target="_blank">Flybits</a> helps banks address customer expectations for personalized experiences that meet their day-to-day needs and life goals. Our contextual recommendation engine transforms digital channels by delivering hyper-personalized products, services and content when their customers need it most. 
+    <a href="https://flybits.com/" target="_blank">Flybits</a> helps banks address customer expectations for personalized experiences that meet their day-to-day needs and life goals. Our contextual recommendation engine transforms digital channels by delivering hyper-personalized products, services and content when their customers need it most.
     <span class="tag is-warning"><a href="https://flybits.com/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
     <br><br>
       <a href="https://hire.withgoogle.com/public/jobs/flybitscom/view/P_AAAAAAHAACSOMUPtq24dRk" target="_blank">Senior Backend Engineer</a>
@@ -154,7 +154,7 @@ order: 4
     </a>
   </div>
   <div class="column">
-    You’re a very good developer… Probably. Regardless, you write bugs. That’s unavoidable. What is avoidable is wasting time trying to track down the cause of those bugs. 
+    You’re a very good developer… Probably. Regardless, you write bugs. That’s unavoidable. What is avoidable is wasting time trying to track down the cause of those bugs.
     <br><br>
     <a href="https://sentry.io/welcome/" target="_blank">Sentry.io</a> provides open source, full-stack error tracking that lets you monitor and fix problems in real time. See the severity and scope of any error, get immediate access to the stack trace, connect the problem directly to the commit that caused it, and fix it without delay. <span class="tag is-warning"><a href="https://sentry.io/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
   </div>
