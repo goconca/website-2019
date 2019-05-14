@@ -2,6 +2,7 @@
 Title: Diversity Scholarship
 ID: diversity-scholarship
 order: 3
+draft: true
 ---
 
 We believe that diversity is an integral part of the success to the Go community and GoCon Canada. GoCon has set aside tickets for members of underrepresented groups who would like to attend the conference. Big thanks to the [sponsors](#diversity) who made this initiative possible.
