@@ -8,5 +8,6 @@
         "In his spare time, he's mostly working on software development tools and exploring experimental ideas. He enjoys contributing to open source, fixing issues in existing tools and the Go project itself."
     ],
     "img_location": "/img/speakers/Dmitri.jpg",
-    "website_order": 2
+    "website_order": 2,
+    "time": "10:30"
 }

@@ -6,5 +6,6 @@
         "Matt Layher is a Distributed Systems Engineer at Fastly, and a regular contributor to a wide variety of open source networking applications and libraries written in Go."
     ],
     "img_location": "/img/speakers/Matt.jpg",
-    "website_order": 5
+    "website_order": 5,
+    "time": "13:30"
 }

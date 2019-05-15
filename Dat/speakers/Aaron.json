@@ -6,5 +6,6 @@
         "Aaron is a Senior Cloud Developer Advocate at Microsoft with over a decade of software development, systems architecture & security experience across the major clouds, development platforms and industries. His current areas of focus include Open Source, Go, Containers and Kubernetes. He joined Microsoft from Rackspace where he was a Senior Systems Architect & Software Developer on the Azure Product & Engineering team. Aaron and his wife currently live in Toronto, Canada with their two boys and their turtle."
     ],
     "img_location": "/img/speakers/Aaron.png",
-    "website_order": 4
+    "website_order": 3,
+    "time": "11:15"
 }
