@@ -6,7 +6,7 @@ order: 4
 
 ### Platinum
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="crowdriff">
   <div class="column is-6 platinum">
     <a href="https://crowdriff.com/" target="_blank">
       <img src="/img/sponsors/crowdriff-logo.png" /></a>
@@ -23,7 +23,7 @@ order: 4
   </div>
 </div>
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="flybits">
   <div class="column is-6 platinum">
     <a href="https://flybits.com/" target="_blank">
       <img src="/img/sponsors/flybits-logo.jpg" /></a>
@@ -51,7 +51,7 @@ order: 4
 
 ### Gold
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="hootsuite">
   <div class="column is-5 gold">
     <a href="https://hootsuite.com" target="_blank">
       <img src="/img/sponsors/hootsuite-logo.png" />
@@ -76,7 +76,7 @@ order: 4
 
 ### Silver
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="kirasystems">
   <div class="column is-4">
     <a href="https://kirasystems.com/" target="_blank">
       <img src="/img/sponsors/kira-logo.svg" width="300px"/>
@@ -102,7 +102,8 @@ order: 4
     <br>
   </div>
 </div>
-<div class="section sponsor columns is-vcentered">
+
+<div class="section sponsor columns is-vcentered" id="fullscript">
   <div class="column is-4 silver">
     <a href="https://fullscript.com" target="_blank">
       <img src="/img/sponsors/fullscript-logo.png" />
@@ -126,7 +127,7 @@ order: 4
 
 ### Bronze
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="manifold">
   <div class="column is-3 bronze">
     <a href="https://www.manifold.co/gocon?utm_campaign=gocon&utm_source=gocon&utm_medium=sponsorship" target="_blank">
       <img src="/img/sponsors/manifold-logo.png" />
@@ -147,7 +148,7 @@ order: 4
   </div>
 </div>
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="sentry">
   <div class="column is-3 bronze">
     <a href="https://sentry.io/welcome/" target="_blank">
       <img src="/img/sponsors/sentry-logo.svg" />
@@ -160,7 +161,7 @@ order: 4
   </div>
 </div>
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="chainsafe">
   <div class="column is-3 bronze">
     <a href="https://chainsafe.io/" target="_blank">
       <img src="/img/sponsors/ChainSafe_Logo.png" />
@@ -173,7 +174,7 @@ order: 4
   </div>
 </div>
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="sweetiq">
   <div class="column is-3 bronze">
     <a href="https://sweetiq.com/" target="_blank">
       <img src="https://sweetiq.com/wp-content/uploads/2018/01/SWIQ_USATN_Logo_website.png"/>
@@ -186,7 +187,7 @@ order: 4
   </div>
 </div>
 
-<div class="section sponsor columns is-vcentered">
+<div class="section sponsor columns is-vcentered" id="digitalocean">
   <div class="column is-3 bronze">
     <a href="https://www.digitalocean.com" target="_blank">
       <img src="/img/sponsors/DO_Logo_horizontal_blue.svg"/>
