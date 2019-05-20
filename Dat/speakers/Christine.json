@@ -1,7 +1,7 @@
 {
     "name": "Christine Dodrill",
     "title": "WebAssembly on the Server: How System Calls Work",
-    "description": "This cat happen now, it was too purr-fect!!!",
+    "description": "A trip through the fundamentals of Unix system calls, why they matter and how to implement them with WebAssembly.  A tool will be released with the talk to demonstrate these system calls using Gopher.",
     "twitter": "theprincessxena",
     "bio": [
         "Christine is a Site Reliability Expert with over half a decade of systems administration, architecting and implementing complicated services at scale. She just left Heroku where she was a Senior Software Engineer on the Platform Services team.",
