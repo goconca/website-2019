@@ -1,11 +1,13 @@
 {
     "name": "Jon Bodner",
     "title": "Evil Go: Doing Well by Doing Bad",
+    "description": "There are lots of talks about best practices in Go, and they are all boring. Evil Go is about ensuring job security by following the worst practices for your Go code. In addition to teaching bad practices, it also introduces a pair of frameworks to help implement all of the evil covered in the talk.",
     "twitter": "jonbodner",
     "bio": [
         "I am a software engineer, lead developer, and architect and enjoy presenting and discussing open source, technology trends, and the future of software engineering. Over the past 20 years, I've worked in just about every corner of the software industry including on-line commerce, education, finance, government, healthcare, and internet infrastructure.",
         "I am currently a Senior Software Engineer at Morning Consult, a global technology company revolutionizing ways to collect, organize, and share survey research data to transform how decisions are made."
     ],
     "img_location": "/img/speakers/Jon.jpg",
-    "website_order": 8
+    "website_order": 8,
+    "time": "15:15"
 }

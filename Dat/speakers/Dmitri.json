@@ -1,6 +1,7 @@
 {
     "name": "Dmitri Shuralyov",
     "title": "Demystifying Modules: under the hood of the Go toolchain",
+    "description": "Sequi quam nostrud or error, labore exercitationem. Magni aperiam for enim for eiusmod and veritatis perspiciatis proident. Incidunt. Ipsum ipsam ipsum and et so numquam duis, voluptas. Nesciunt. Illum commodo so ut so perspiciatis and iste.",
     "twitter": "dmitshur",
     "bio": [
         "Software engineer and an avid gopher. He strives to make software more delightful.",
@@ -8,5 +9,6 @@
         "In his spare time, he's mostly working on software development tools and exploring experimental ideas. He enjoys contributing to open source, fixing issues in existing tools and the Go project itself."
     ],
     "img_location": "/img/speakers/Dmitri.jpg",
-    "website_order": 2
+    "website_order": 2,
+    "time": "10:30"
 }

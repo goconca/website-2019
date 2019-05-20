@@ -1,10 +1,12 @@
 {
     "name": "Jessica Xie",
     "title": "How NOT to DDOS Servers with Your Go Service",
+    "description": "We wrote a service so efficient that it accidentally DDOS'ed our cluster and caused an outage. I will be discussing the lessons that we learned from our mistake, and what we can do to prevent it in the future so you won't repeat the same error.",
     "twitter": "",
     "bio": [
         "Jessica Xie is a Software Developer at Shopify, Toronto, where she worked on various projects around the APIs with high throughput, low response time, and high availability, both on the server and client side. She studied Electrical and Computer Engineering at the University of Toronto. Previously, she worked as a Software Developer for Chango, an ad tech company that was bought by Rubicon Project. Chango's ad bidding systems handle more transactions while having a lower response time than Twitter."
     ],
-    "img_location": "/img/gophermega.png",
-    "website_order": 3
+    "img_location": "/img/speakers/Jessica.jpg",
+    "website_order": 4,
+    "time": "11:45"
 }

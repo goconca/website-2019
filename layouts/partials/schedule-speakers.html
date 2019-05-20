@@ -1,0 +1,12 @@
+{{ range $index, $num := $.ids }}
+    {{ with (index $.speakers $num) }}
+    <tr class="speaker">
+        <td>{{ .time }}</td>
+        <td class="has-text-centered">
+            <img src="{{ .img_location }}" alt="{{ .name }}">
+            {{ .name }}
+        </td>
+        <td width="80%"><h3>{{ .title }}</h3> {{ .description }}</td>
+    </tr>
+    {{ end }}
+{{ end }}
