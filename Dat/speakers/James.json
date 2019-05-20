@@ -1,7 +1,7 @@
 {
     "name": "James Bowes",
     "title": "A Token Of Respect: Implementing Microservice Identity And Access Management In Go",
-    "description": "This cat happen now, it was too purr-fect!!!",
+    "description": "How do you balance robust access management features with the distributed nature of a microservices ecosystem? This talk will walk you through how we built our IAM system at Manifold, explore the tradeoffs we made, and look at the features of Go that helped in our implementation.",
     "twitter": "jrbowes",
     "bio": [
         "James Bowes is the CTO of Manifold. Over his 14 year career he has worked for companies like Red Hat and Salesforce as a senior member of the technical staff. James has scaled early stage startups and also managed and sustained large organizations. James is mainly a backend developer, focusing on thorny concurrency issues, but whenever he can, he likes to build infrastructure, try out cool new software, help his peers learn, and make people laugh."

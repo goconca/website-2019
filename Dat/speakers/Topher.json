@@ -1,7 +1,7 @@
 {
     "name": "Topher Bullock",
     "title": "Effective Goroutine Cancellation",
-    "description": "This cat happen now, it was too purr-fect!!!",
+    "description": "Concourse is a CI/CD tool written in Go, which requires high concurrency, but managing and cancelling Goroutines is a problem on its own. This experience report will present real-world problems, and the application of packages and patterns to effectively manage and cancel Goroutines.",
     "twitter": "topherbullock",
     "bio": [
         "Topher recently joined Shopify as a Staff Developer and is based out of their Toronto, Canada office. Shopify is a Canadian based e-commerce company whose mission to make commerce better for everyone and has helped 800,000 businesses sell $100B through the platform.",
