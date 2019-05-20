@@ -1,31 +1,31 @@
-<div class="columns ">
+<div class="columns">
   <div class="column">
-    <table class="table is-bordere is-striped is-fullwidth is-hoverable">
+    <table class="table is-fullwidth is-hoverable schedule">
       {{ $speakers := (sort $.Site.Data.speakers "website_order" "asc") }}
       {{ $colspan := 2 }}
       <tbody>
-        <tr> <td>8:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Registration</td> </tr>
-        <tr> <td>9:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Opening</td> </tr>
+        <tr class="registration"> <td colspan={{ $colspan }}>8:00</td> <td>Registration</td> </tr>
+        <tr class="opening"> <td colspan={{ $colspan }}>9:00</td> <td>Opening</td> </tr>
 
         {{ partial "schedule-speakers" (dict "context" . "ids" (seq 0 2) "speakers" $speakers) }}
 
-        <tr> <td>11:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Break</td> </tr>
+        <tr class="break"> <td colspan={{ $colspan }}>11:00</td> <td>Break</td> </tr>
 
         {{ partial "schedule-speakers" (dict "context" . "ids" (seq 3 4) "speakers" $speakers) }}
 
-        <tr> <td>12:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Lunch</td> </tr>
+        <tr class="lunch"> <td colspan={{ $colspan }}>12:00</td> <td>Lunch</td> </tr>
 
         {{ partial "schedule-speakers" (dict "context" . "ids" (seq 5 7) "speakers" $speakers) }}
 
-        <tr> <td>15:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Break</td> </tr>
+        <tr class="break"> <td colspan={{ $colspan }}>15:00</td> <td>Break</td> </tr>
 
         {{ partial "schedule-speakers" (dict "context" . "ids" (seq 8 9) "speakers" $speakers) }}
 
-        <tr> <td>16:45</td> <td class="has-text-centered" colspan={{ $colspan }}>Break</td> </tr>
+        <tr class="break"> <td colspan={{ $colspan }}>16:45</td> <td>Break</td> </tr>
 
         {{ partial "schedule-speakers" (dict "context" . "ids" (seq 10 10) "speakers" $speakers) }}
 
-        <tr> <td>17:00</td> <td class="has-text-centered" colspan={{ $colspan }}>Raffle + Closing</td> </tr>
+        <tr class="raffle"> <td colspan={{ $colspan }}>17:00</td> <td>Raffle + Closing</td> </tr>
       </tbody>
     </table>
   </div>
