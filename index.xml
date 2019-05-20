@@ -78,6 +78,15 @@ These are the values to which people attending this event should aspire:  Be fri
     </item>
     
     <item>
+      <title>Event schedule</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>8:00 Registration  9:00 Opening  9:30 Peter Kieltyka  webrpc: a simpler way to write api services for modern Web apps Consequatur. Molestiae odit or non so veritatis yet aliquid rem. Reprehenderit vel. Nostrud. Numquam sint and dolore or adipisci yet perspiciatis ex mollit. Aute labore. Exercitation consequatur for quae for ullamco ullam. Ullam sed veritatis ratione. Officia pariatur for exercitation but odit yet eiusmod or enim. Odit excepteur velitesse.</description>
+    </item>
+    
+    <item>
       <title>Get your ticket!</title>
       <link>/tickets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,15 +112,6 @@ These are the values to which people attending this event should aspire:  Be fri
       <guid>/speakers/</guid>
       <description>Putting things in order is hard. So we iterated over a map (which as of Go 1.0 is unordered) and got..
 List of speakers on the Go playground   webrpc: a simpler way to write api services for modern Web apps         Peter Kieltyka @peterk Chief architect behind Horizon Games. Having co-founded both NuLayer and Pressly, he&amp;#39;s passionate about creating awesome teams and powerful products.</description>
-    </item>
-    
-    <item>
-      <title>We are looking for sponsors!</title>
-      <link>/sponsorship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sponsorship/</guid>
-      <description>If you are interested in supporting this event please email us at organizers@gocon.ca or use our contact form. Don&amp;rsquo;t forget to check out our Sponsorship Prospectus!</description>
     </item>
     
   </channel>
