@@ -6,12 +6,14 @@
             <span class="is-hidden-mobile">
                 <img src="{{ .img_location }}" alt="{{ .name }}">
                 <h4 class="speaker-name">{{ .name }}</h4>
+                <a href="https://twitter.com/{{ .twitter }}" target="_blank" class="twitter"><i class="fab fa-twitter-square"></i> {{ .twitter }}</a>
             </span>
         </td>
         <td min-width="80%">
             <span class="is-hidden-tablet">
                 <img src="{{ .img_location }}" alt="{{ .name }}">
                 <h4 class="speaker-name">{{ .name }}</h4>
+                <a href="https://twitter.com/{{ .twitter }}" target="_blank" class="twitter"><i class="fab fa-twitter-square"></i> {{ .twitter }}</a>
             </span>
             <h3>{{ .title }}</h3> {{ .description }}
         </td>
