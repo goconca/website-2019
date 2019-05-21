@@ -47,6 +47,16 @@ order: 4
   </div>
 </div>
 
+<div class="section sponsor columns is-vcentered" id="microsoft">
+  <div class="column is-6 platinum">
+    <a href="https://www.microsoft.com/" target="_blank">
+      <img src="/img/sponsors/microsoft-logo.png" /></a>
+  </div>
+  <div class="column is-1"></div>
+  <div class="column">
+  </div>
+</div>
+
 ---
 
 ### Gold
