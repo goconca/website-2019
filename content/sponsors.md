@@ -204,10 +204,10 @@ order: 4
     </a>
   </div>
   <div class="column">
-    Based in New York, <a href="https://www.digitalocean.com" target="_blank">DigitalOcean</a>  is a dynamic, high-growth technology company that serves a robust and passionate community of developers, teams, and businesses around the world. 
-    
+    Based in New York, <a href="https://www.digitalocean.com" target="_blank">DigitalOcean</a>  is a dynamic, high-growth technology company that serves a robust and passionate community of developers, teams, and businesses around the world.
+
     We believe that today’s entrepreneurs are changing the world through software. Our mission is to empower these entrepreneurs by bringing modern app development within reach for any developer, anywhere in the world.
-    
+
     <span class="tag is-warning"><a href="https://www.digitalocean.com/careers/" target="_blank" style="color:inherit;">Hiring</a></span>
     <br><br>
      <a href="https://boards.greenhouse.getrake.io/digitalocean98/jobs/1544804?gh_jid=1544804" target="_blank">Senior Engineer: Images</a>
