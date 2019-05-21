@@ -1,7 +1,7 @@
 ---
 Title: Our Sponsors
 ID: sponsors
-order: 4
+order: 2
 ---
 
 ### Platinum
