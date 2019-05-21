@@ -3,10 +3,18 @@
     <tr class="speaker">
         <td>{{ .time }}</td>
         <td class="has-text-centered">
-            <img src="{{ .img_location }}" alt="{{ .name }}">
-            {{ .name }}
+            <span class="is-hidden-mobile">
+                <img src="{{ .img_location }}" alt="{{ .name }}">
+                {{ .name }}
+            </span>
         </td>
-        <td width="80%"><h3>{{ .title }}</h3> {{ .description }}</td>
+        <td width="80%">
+            <span class="is-hidden-tablet has-text-centered">
+                <img src="{{ .img_location }}" alt="{{ .name }}">
+                <h4 class="speaker-name">{{ .name }}</h4>
+            </span>
+            <h3>{{ .title }}</h3> {{ .description }}
+        </td>
     </tr>
     {{ end }}
 {{ end }}
