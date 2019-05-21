@@ -1,15 +1,15 @@
 {{ range $index, $num := $.ids }}
     {{ with (index $.speakers $num) }}
     <tr class="speaker">
-        <td>{{ .time }}</td>
+        <td class="time-cell">{{ .time }}</td>
         <td class="has-text-centered">
             <span class="is-hidden-mobile">
                 <img src="{{ .img_location }}" alt="{{ .name }}">
-                {{ .name }}
+                <h4 class="speaker-name">{{ .name }}</h4>
             </span>
         </td>
-        <td width="80%">
-            <span class="is-hidden-tablet has-text-centered">
+        <td min-width="80%">
+            <span class="is-hidden-tablet">
                 <img src="{{ .img_location }}" alt="{{ .name }}">
                 <h4 class="speaker-name">{{ .name }}</h4>
             </span>
