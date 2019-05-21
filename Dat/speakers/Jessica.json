@@ -1,5 +1,6 @@
 {
     "name": "Jessica Xie",
+    "id": "jessica",
     "title": "How NOT to DDOS Servers with Your Go Service",
     "description": "We wrote a service so efficient that it accidentally DDOS'ed our cluster and caused an outage. I will be discussing the lessons that we learned from our mistake, and what we can do to prevent it in the future so you won't repeat the same error.",
     "twitter": "",

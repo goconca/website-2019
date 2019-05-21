@@ -1,5 +1,6 @@
 {
     "name": "Denise Yu",
+    "id": "denise",
     "title": "Intro to Test-Driven Development in Go",
     "description": "Test-Driven Development (TDD) is often misunderstood as a test coverage process. Rather it’s a design tool: TDD helps you explore the solution and align your mental model with where your implementation is going. Let’s look at how to get started with TDD in Golang for more sustainable code design.",
     "twitter": "deniseyu21",

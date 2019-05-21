@@ -1,5 +1,6 @@
 {
     "name": "Jon Bodner",
+    "id": "jon",
     "title": "Evil Go: Doing Well by Doing Bad",
     "description": "There are lots of talks about best practices in Go, and they are all boring. Evil Go is about ensuring job security by following the worst practices for your Go code. In addition to teaching bad practices, it also introduces a pair of frameworks to help implement all of the evil covered in the talk.",
     "twitter": "jonbodner",

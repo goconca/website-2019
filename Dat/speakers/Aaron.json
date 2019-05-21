@@ -1,5 +1,6 @@
 {
     "name": "Aaron Wislang",
+    "id": "aaron",
     "title": "A day in the life of a Cloud Native Gopher",
     "description": "Ask your doctor if Cloud Native is for you! Explore what cloud native means from a developer perspective. We will build beyond the buzzwords to develop, containerize, deploy, and document an application with Go and the open source tools and techniques Aaron and other busy Gophers use at Microsoft.",
     "twitter": "as_w",

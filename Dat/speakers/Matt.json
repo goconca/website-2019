@@ -1,5 +1,6 @@
 {
     "name": "Matt Layher",
+    "id": "matt",
     "title": "Using unsafe.Pointer to explore Linux system calls",
     "description": "Package unsafe is one of the most powerful tools in the Go standard library, but it has some sharp edges. During this talk, you will learn techniques to make effective use of package unsafe, and real world examples with Linux system calls will be used to demonstrate its true power and flexibility.",
     "twitter": "mdlayher",

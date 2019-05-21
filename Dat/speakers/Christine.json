@@ -1,5 +1,6 @@
 {
     "name": "Christine Dodrill",
+    "id": "christine",
     "title": "WebAssembly on the Server: How System Calls Work",
     "description": "A trip through the fundamentals of Unix system calls, why they matter and how to implement them with WebAssembly.  A tool will be released with the talk to demonstrate these system calls using Gopher.",
     "twitter": "theprincessxena",
