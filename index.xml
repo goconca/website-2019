@@ -83,7 +83,7 @@ These are the values to which people attending this event should aspire:  Be fri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>8:00 Registration  9:00 Opening  9:30 Peter Kieltyka  peterk   Peter Kieltyka  peterk  webrpc: a simpler way to write api services for modern Web apps Consequatur. Molestiae odit or non so veritatis yet aliquid rem. Reprehenderit vel. Nostrud. Numquam sint and dolore or adipisci yet perspiciatis ex mollit. Aute labore. Exercitation consequatur for quae for ullamco ullam. Ullam sed veritatis ratione. Officia pariatur for exercitation but odit yet eiusmod or enim.</description>
+      <description>8:00 Registration  9:00 Opening  9:30 Peter Kieltyka  peterk   Peter Kieltyka  peterk  webrpc: a simpler way to write api services for modern Web apps Ever written a REST API server? but even to just add a single endpoint to a service is a lot of work to coordinate and then implement across different api client libraries and apps. Webrpc offers a schema-driven approach to writing Web services, declare your data types and methods in a documentation-like format called RIDL, and use the webrpc-gen cli to generate your bindings between client&amp;#43;server for Go, Javascript, Typescript and other languages.</description>
     </item>
     
     <item>
