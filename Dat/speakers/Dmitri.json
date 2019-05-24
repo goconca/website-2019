@@ -2,7 +2,7 @@
     "name": "Dmitri Shuralyov",
     "id": "dmitri",
     "title": "Demystifying Modules: under the hood of the Go toolchain",
-    "description": "Sequi quam nostrud or error, labore exercitationem. Magni aperiam for enim for eiusmod and veritatis perspiciatis proident. Incidunt. Ipsum ipsam ipsum and et so numquam duis, voluptas. Nesciunt. Illum commodo so ut so perspiciatis and iste.",
+    "description": "Go 1.11 introduced a new concept called modules, an alternative to GOPATH with support for versioning and reproducible builds. This talk aims to provide a conceptual model about how modules operate by explaining them from an abstract and a low-level technical perspective. It should give you a better idea of what happens when you run commands like go build or go mod tidy, and help inform your decisions when using and publishing modules.",
     "twitter": "dmitshur",
     "bio": [
         "Software engineer and an avid gopher. He strives to make software more delightful.",
