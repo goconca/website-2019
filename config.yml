@@ -72,6 +72,8 @@ params:
       Title: "Location"
     - Url: "/code-of-conduct/"
       Title: "Code of Conduct"
+    - Url: "/swag/"
+      Title: "Swag"
 
   # List of Sponsors
   # Sponsors:
