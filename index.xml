@@ -105,5 +105,17 @@ These are the values to which people attending this event should aspire:  Be fri
 List of speakers on the Go playground   webrpc: a simpler way to write api services for modern Web apps         Peter Kieltyka  peterk Chief architect behind Horizon Games. Having co-founded both NuLayer and Pressly, he&amp;#39;s passionate about creating awesome teams and powerful products.</description>
     </item>
     
+    <item>
+      <title>Swag</title>
+      <link>/swag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/swag/</guid>
+      <description>If you want to support our designer @Lubov_Soltan consider buying GoCon branded goodies.
+Source for all visuals for GoCon Canada can be found here.
+Original gopher mascot was designed by Renee French / CC 3.0.
+T-Shirts</description>
+    </item>
+    
   </channel>
 </rss>
