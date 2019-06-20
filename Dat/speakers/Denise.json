@@ -10,5 +10,7 @@
     ],
     "img_location": "/img/speakers/Denise.jpg",
     "website_order": 6,
-    "time": "14:00"
+    "time": "14:00",
+    "talk_url": "http://www.deniseyu.io/gocon",
+    "backup_talk_url": "https://drive.google.com/a/pivotal.io/file/d/1SdKRooGHgMphURdoXextWmdGJUtuJjQC"
 }

@@ -1,4 +1,4 @@
-{
+    {
     "name": "Nicole Tibaldi",
     "id": "nicole",
     "title": "'Tech hiring is broken' is broken",
@@ -9,5 +9,6 @@
     ],
     "img_location": "/img/speakers/Nicole.jpg",
     "website_order": 7,
-    "time": "14:30"
+    "time": "14:30",
+    "talk_url": "https://docs.google.com/a/gocon.ca/presentation/d/1Lp07aeBhyZXUFEP-dT1JSE96jM9Yb8MtBzMtESiBnLs"
 }

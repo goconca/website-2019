@@ -11,5 +11,6 @@
     ],
     "img_location": "/img/speakers/Dmitri.jpg",
     "website_order": 2,
-    "time": "10:30"
+    "time": "10:30",
+    "talk_url": "https://dmitri.shuralyov.com/talks/2019/demystifying-modules/mod.slide"
 }

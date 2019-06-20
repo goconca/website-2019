@@ -9,5 +9,7 @@
     ],
     "img_location": "/img/speakers/James.jpg",
     "website_order": 9,
-    "time": "15:45"
+    "time": "15:45",
+    "talk_url": "https://speakerdeck.com/jbowes/a-token-of-respect-implementing-microservice-identity-and-access-management-in-go",
+    "backup_talk_url": "https://drive.google.com/open?id=1HyRntjiz51JlR1Ic21xgQGyYp95Wuaju"
 }
