@@ -23,13 +23,17 @@
         <div class="media-content">
             <div class="content">
                 <p><strong>{{.name}}</strong>
-                {{if .twitter}} <small><a href="https://twitter.com/{{.twitter}}" target="_blank"><i class="fab fa-twitter-square"></i> {{.twitter}}</a></small> {{end}}
+                    {{if .twitter}} <small><a href="https://twitter.com/{{.twitter}}" target="_blank"><i
+                                class="fab fa-twitter-square"></i> {{.twitter}}</a></small> {{end}}
                 </p>
                 <p class="is-hidden-mobile">
                     {{range .bio}}
                     {{.}}<br><br>
                     {{end}}
                 </p>
+                {{if .talk_url}}
+                Speaker slides: <a href="{{.talk_url}}" target="_blank"> <i class="fas fa-lg fa-external-link-alt"></i></a>
+                {{end}}
             </div>
         </div>
     </article>
